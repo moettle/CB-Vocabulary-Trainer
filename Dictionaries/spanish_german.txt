@@ -615,7 +615,7 @@ manana va a hacer frio     -    Morgen wird es kalt
 que tiempo va a hacer manana -   Wie wird das Wetter morgen?
 
 
-# 1.24 Hotels and Accomodation
+# 1.22 Hotels and Accomodation
 reserva [f]                -    Reservierung
 habitación [f]             -    Zimmer
 cuarto [m]                 -    Zimmer
@@ -642,7 +642,7 @@ cuanto cuesta por noche?   -    Wie viel kostet es pro Nacht?
 cuanto cuesta por persona  -    Wie viel kostet es pro Person
 
 
-# 1.25 Problems in a Hotel
+# 1.23 Problems in a Hotel
 - Words ending with ema & ama come from greek and as masculin... wtf
 
 hay                       -     Es gibt
@@ -677,3 +677,29 @@ no puedo abrir la ventana             -    Ich kann das Fenster nicht öffnen
 no puedo encender la luz              -    Ich kann das Licht nicht anschalten
 no puedo acceder el internet          -    Ich komme nicht ins Internet
 no hay toallas                        -    Es gibt keine Handtücher
+
+
+# 1.24 The alphabet and staying at a campsite
+camping [m]                           -    Campingplatz
+Hay un camping por aqui?              -    Gibt es hier einen Campingplatz?
+tienda [f]                            -    Zelt
+carpa  [f]                            -    Zelt
+caravana [f]                          -    Wohnwagen
+Se puede acampar aqui?                -    Kann man hier campen?
+Se puede beber el agua?               -    Kannn man das Wasser trinken?
+alquilar                              -    mieten
+Se puede alquilar una toalla?         -    Kann man ein Handtuch mieten?
+Donde esta?                           -    Wo ist?
+Donde esta la piscina?                -    Wo ist der Pool?
+super mercado [m]                     -    Supermarkt
+Donde esta el super mercado?          -    Wo ist der Supermarkt?
+Donde estan las duchas?               -    Wo sind die Duschen?
+servicio [m]                          -    Toilette
+Donde estan los servicios?            -    Wo sind die Toiletten?
+basura [f]                            -    Müll, Abfall
+cubo [m]                              -    Eimer, Würfel
+cubo de basura                        -    Mülleimer
+comprar                               -    kaufen
+Donde se puede comprar leche?         -    Wo kann man Milch kaufen?
+Donde se puede comprar cafe?          -    Wo kann man Kaffee kaufen?
+Donde se puede comprar pan?           -    Wo kann man Brot kaufen?
