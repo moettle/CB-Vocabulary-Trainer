@@ -1,0 +1,679 @@
+# 1.01 Saying how you are feeling
+hola                -      Hallo
+que tal?            -      Wie geht's?
+bien                -      gut
+gracias             -      Danke
+muy bien            -      sehr gut
+mal                 -      schlecht
+fatal               -      sehr schlecht, schrecklich, miserable
+excelente           -      exzellent
+y tú                -      und du? (i tu)
+yo                  -      ich
+yo bien             -      Mir geht es gut
+estupendo           -      großartig
+fenomenal           -      phänomenal
+
+
+# 1.02 Greetings
+buenos dias         -      Guten Morgen, Guten Tag (until 15:00)
+dia                 -      Tag
+buenas tardes       -      Guten Tag (Nachmittag ab 15:00)
+buenas noches       -      Guten Abend, Gute Nacht 
+adios               -      Tschüss
+luego               -      später
+hasta luego         -      Bis dann, Bis später
+pronto              -      Bald, schnell
+hasta pronto        -      Bis bald
+manana              -      Morgen
+hasta manana        -      Bis morgen
+me llamo            -      Mein Name ist...
+encantado           -      erfreut, angenehm (für männlich)
+
+
+# 1.03 Saying where you are from
+tu                    -    du
+usted                 -    Sie (formal)
+y tú                  -    und du?
+y usted               -    und Sie?
+Señor                 -    Herr (Anrede)
+Señorita              -    junge Frau (Anrede)
+Señora                -    Frau (Anrede)
+como                  -    Wie
+Cómo te llamas?       -    Wie heißt du?
+Cómo se llama usted?  -    Wie heißen Sie? (formal)
+De dónde eres?        -    Woher bist du?
+De dónde es usted?    -    Woher sind Sie?
+Soy de ...            -    Ich bin aus ...
+Espania               -    Spanien
+Alemania              -    Deutschland
+Escocia               -    Schottland
+Estados Unidos        -    Vereinigte Staaten
+Inglaterra            -    England
+Australia             -    Australien
+Irlanda               -    Irland
+Francia               -    Frankreich
+también               -    auch
+
+
+# 1.04 More on nationalities
+Sí                       -   Ja
+No                       -   Nein, nicht (Negierung)
+Eres de alemania?        -   Bist du aus Deutschland?
+Es usted de alemania?    -   Sind Sie aus Deutschland? (formal)
+No, no soy de alemania   -   Nein, Ich bin nicht aus Deutschland
+no soy                   -   Ich bin nicht
+soy                      -   Ich bin
+soy <Name>               -   Ich bin <Name>
+Vivo en Munich           -   Ich lebe in München
+Donde vives?             -   Wo lebst du?
+Donde vive usted?        -   Wo leben Sie? (formal)
+pero                     -   aber
+ahora                    -   jetzt, nun
+
+
+
+# 1.05 Talking about family
+- Alle "h" im Spanischen werden leise ausgesprochen
+
+hermano                -     Bruder
+hermana                -     Schwester
+madre                  -     Mutter
+padre                  -     Vater
+marido                 -     Ehemann
+mujer                  -     Ehefrau
+hijo                   -     Sohn
+hija                   -     Tochter
+me                     -     Mein (keine Fälle)
+me marido              -     Mein Ehemann
+me mujer               -     Meine Ehefrau
+este                   -     Dieser (maskulin)
+esta                   -     Diese (weiblich)
+es                     -     ist
+este es                -     Das ist
+Este es me marido      -     Das ist mein Ehemann (maskulin)
+Esta es me mujer       -     Das ist meine Ehefrau
+Se                     -     sich selbst, man, sich (kein Geschlecht)
+Se llama               -     Sein/Ihr Name ist
+
+
+# 1.06 Introduction to numbers
+Tu padre                -    Dein Vater (informal)
+mamá                    -    Mutter 
+papá                    -    Vater
+tengo                   -    Ich habe
+tengo una hermana       -    Ich habe eine Schwester
+tengo un hermano        -    Ich habe einen Bruder
+una                     -    Ein (weiblich)
+un                      -    Ein (männlich)
+uno                     -    1
+dos                     -    2
+tres                    -    3
+cuatro                  -    4
+cinco                   -    5
+seis                    -    6
+siete                   -    7
+ocho                    -    8
+nueve                   -    9
+diez                    -    10
+hermanos                -    Brüder
+mujeres                 -    Ehefrauen
+se llaman               -    namens, Ihre namen sind
+Quién                   -    Wer
+Quién eres              -    Wer bist du?105
+
+# 1.07 Jobs
+profesor [m]            -    Lehrer
+profesora [f]           -    Lehrerin
+soy profesor            -    Ich bin ein Lehrer
+estudiante              -    Schüler
+ingeniero               -    Ingenieur
+ingeniera               -    Ingenieurin
+abogado                 -    Anwalt
+abogada                 -    Anwältin
+fontanero               -    Klempner
+fontanera               -    Klempnerin
+amo de casa             -    Hausmann
+ama de casa             -    Hausfrau
+trabajar                -    arbeiten
+En qué                  -    Was
+en                      -    in
+trabajo en una tienda   -    Ich arbeite in einem Laden
+fábrica                 -    Fabrik
+officina                -    Büro
+restaurante             -    Restaurant
+hospital                -    Krankenhaus
+Te gusta?               -    Gefällt es dir?
+Te gusta tu trabajo?    -    Gefällt dir dein Job?
+Me gusta me trabajo     -    Mein Job gefällt mir
+No me gusta me trabajo  -    Mein Job gefällt mir nicht
+No trabajo              -    Ich arbeite nicht
+jubilado                -    Rente
+
+
+# 1.08 Likes and Dislikes + Grammar
+* Infinitiv: Grundform eines Verbs enden im Spanischen mit "ar", "er" oder "ir"
+
+le gusta su trabajo     -    Mögen Sie ihren Job?
+música [f]              -    Musik
+me gusta la música      -    Ich mag Musik
+literatura [f]          -    Literatur
+fotografia [f]          -    Fotografie 
+chocolate [m]           -    Schokolade
+me gusta mucho          -    Ich mag sehr
+cine [m]                -    Kino
+deporte [m]             -    Sport
+Me encanta              -    Ich mag sehr sehr
+Me gusta cantar         -    Ich mag singen
+cantar                  -    singen
+bailar                  -    tanzen
+comer                   -    essen
+salir                   -    ausgehen
+leer                    -    lesen
+aprender                -    lernen
+charlar                 -    reden, plaudern
+
+
+# 1.09 Review of the unit
+regular                   -    mittelmäßig
+tienes                    -    du hast
+aqui                      -    hier
+eres de aqui              -    Bist du von hier?
+con                       -    mit
+en                        -    in
+ir                        -    gehen
+me tengo que ir           -    Ich muss gehen/los
+de                        -    von
+hablar                    -    sprechen
+hablas espanol?           -    Sprichst du spanisch
+un poco                   -    ein bisschen
+hablo un poco de espanol  -    Ich spreche ein bisschen spanisch
+estudiar                  -    studieren
+trabajas o es estudias?   -    Arbeitest du oder studierst du?
+no canto muy bien         -    Ich singe nicht sehr gut
+por ejemplo               -    zum Beispiel
+
+
+# 1.10 Christmas edition
+navidad                   -    Weihnachten
+navidades                 -    Weihnachtszeit
+feliz                     -    Glücklich, zufrieden
+Feliz navidad             -    Frohe Weihnachten
+prospero                  -    erfolgreich
+año                       -    Jahr
+nuevo                     -    neu
+prospero año nuevo        -    Frohes neues Jahr
+maestro                   -    Meister
+a vosotros también        -    euch auch
+hoy                       -    heute
+con                       -    mit
+campana                   -    Glocke
+este                      -    dieser
+festejar                  -    etw. feiern
+hay que                   -    man muss
+nació                     -    geboren
+porque                    -    weil
+ya                        -    schon
+ayer                      -    gestern
+nochebuena                -    Heiligabend
+dios                      -    Gott
+
+
+# 1.11 I only speak a little spanish
+sobre todo                 -   über alles
+especial                   -   besonders
+idioma [m]                 -   Sprache
+hablar                     -   sprechen
+hablo espanol              -   Ich spreche spanisch
+hablas?                    -   Sprichst du?
+hablo un poco de espanol   -   Ich spreche ein bisschen spanisch
+ingles                     -   englisch
+francés                    -   französisch
+alemán                     -   deutsch
+italiano                   -   italienisch
+japonés                    -   japanisch
+chino                      -   chinesisch
+entender                   -   verstehen
+entiendo                   -   ich verstehe
+entiendes                  -   Verstehest du?
+No entiende                -   Ich verstehe nicht
+lo siento                  -   Tut mir leid
+aprendiendo                -   Ich lerne gerade (learning)
+estoy aprendiendo espanol  -   Ich lerne spanisch
+poder                      -   können
+puedes?                    -   kannst du?
+despacio                   -   langsam
+más                        -   mehr
+más despacio               -   langsamer
+repetir                    -   wiederholen
+puedes repetir?            -   Könntest du wiederholen?
+escribir                   -   schreiben
+como se escribe?           -   Wie wird das geschrieben?
+decir                      -   sagen
+como se dice?              -   Wie sagt man?
+
+
+# 1.12 Numbers, months, days and seasons
+cero                       -   0
+uno                        -   1
+dos                        -   2
+tres                       -   3
+cuatro                     -   4
+cinco                      -   5
+seis                       -   6
+siete                      -   7
+ocho                       -   8
+nueve                      -   9
+diez                       -   10
+once                       -   11
+doce                       -   12
+trece                      -   13
+catorce                    -   14
+quince                     -   15
+dieciséis                  -   16
+diecisiete                 -   17
+dieciocho                  -   18
+diecinueve                 -   19
+veinte                     -   20
+veinteiuno                 -   21
+veinteidos                 -   22
+treinta                    -   30
+treinta y uno              -   31
+treinta y dos              -   32
+cuarenta                   -   40
+cuarenta y uno             -   41
+cuarenta y dos             -   41
+cincuenta                  -   50
+sesenta                    -   60
+setenta                    -   70
+ochenta                    -   80
+noventa                    -   90
+ciento                     -   100
+ciento uno                 -   101
+ciento dos                 -   102
+ciento quince              -   115
+ciento cuarento y ocho     -   148
+doscientos                 -   200
+doscientos veinteidos      -   222
+trescientos                -   300
+cuatrocientos              -   400
+quinientos                 -   500
+seiscientos                -   600
+setecientos                -   700
+ochocientos                -   800
+novecientos                -   900
+mil                        -   1000
+dos mil                    -   2000
+tres mil                   -   3000
+treinta mil                -   30000
+trescientos mil            -   300000
+un millón                  -   1000000
+dos millones               -   2000000
+lunes                      -   Montag
+martes                     -   Dienstag
+miércoles                  -   Mittwoch
+jueves                     -   Donnerstag
+viernes                    -   Freitag
+sábado                     -   Samstag
+domingo                    -   Sonntag
+enero                      -   Januar
+febrero                    -   Februar
+marzo                      -   März
+abril                      -   April
+mayo                       -   Mai
+junio                      -   Juni
+julio                      -   Juli
+agosto                     -   August
+septiembre                 -   September
+octubre                    -   Oktober
+noviembre                  -   November
+diciembre                  -   Dezember
+invierno                   -   Winter
+primavera                  -   Frühling
+verano                     -   Sommer
+otoño                      -   Herbst
+el siete de enero          -   07.01
+cumpleaños                 -   Geburtstag
+me cumpleaños es el...     -   Mein Geburtstag ist am
+hoy                        -   heute
+
+hoy es el siete de enero de dos mil siete            -  Heute ist der 07. Januar 2007
+hoy es el seis de enero de dos mil veinteiuno        -  Heute ist der 06. Januar 2021
+me cumpleaños es el siete de enero de dos mil siete  -  Mein Geburtstag ist am 07. Januar 2007
+
+
+
+# 1.13 Directions
+museo [m]                  -    Museum
+banco [m]                  -    Bank
+restaurante [m]            -    Restaurant
+mercado [m]                -    Markt
+plaza mayor [f]            -    Hauptplatz (Stadt)
+officina de turismo [f]    -    Tourismusbüro
+piscina [f]                -    Schwimmbecken, Pool
+catedral [f]               -    Kathedrale
+dónde                      -    Wo
+dónde esta?                -    Wo ist?
+esta aqui                  -    ist hier
+mire                       -    Schau
+siga                       -    folge
+siga todo recto            -    Geh geradeaus
+doble a la derecha         -    nach rechts abbiegen                      
+doble a la izquierda       -    nach links abbiegen
+Esta lejos                 -    Ist es weit?
+de aqui                    -    von hier
+Esta lejos de aqui         -    Ist es weit weg von hier?
+cerca                      -    nah
+El museo esta lejos de aqui?  -  Ist das Museum weit weg von hier?
+
+
+# 1.14 Places in town
+* "ce" is pronounced "se" or "the"
+* "ca" is pronounces "ka"
+* "de el" wird zu "del"
+
+centro commercial [m]      -    Einkaufszentrum
+bar [m]                    -    Bar
+hospital [m]               -    Krankenhaus
+cafetería [f]              -    Cafe
+farmacia [f]               -    Apotheke
+por aqui                   -    hier in der Nähe
+hay                        -    Es gibt
+hay un bar por aqui        -    Gibt es hier in der Nähe eine Bar?
+enfrente de                -    gegenüber
+al lado de                 -    neben an
+ciudad [f]                 -    Stadt
+donde vivo yo              -    Wo ich lebe
+cosa                       -    Ding
+interesante                -    interessant
+
+
+El centro commercial esta cerca del bar               -      Das Einkaufszentrum befindet sich in der Nähe der Bar
+La farmacia esta lejos del mercado                    -      Die Apotheke ist weit vom Markt entfernt
+La piscina esta enfrente de la officina de turismo    -      Der Pool befindet gegenüber vom Tourismusbüro
+
+
+# 1.15 Ordering drinks in a cafe
+por favor                  -     Bitte (Aufmerksamkeit bekommen)
+café [m]                   -     Kaffee
+café con leche             -     Milchkaffee
+café solo                  -     Espresso 
+café negro                 -     Schwarzer Kaffee
+negro                      -     schwarz
+cortado [m]                -     Espresso mit Milch
+té                         -     Tee
+zumo                       -     Saft (Spanisch)
+jugo                       -     Saft (lat. Amerikanisch)
+naranja [f]                -     Orange
+manzana [f]                -     Apfel
+jugo de manzana            -     Apfelsaft
+piña [f]                   -     Ananas
+limonada [f]               -     Limonade
+agua [f]                   -     Wasser
+agua mineral               -     Mineralwasser
+sin                        -     ohne
+con                        -     mit
+sin gas                    -     Ohne Kohlensäure
+con gas                    -     Mit Kohlensäure
+cerveza [f]                -     Bier
+caña [f]                   -     kleines Glas Bier (Spanisch)
+vino [m]                   -     Wein
+vino tinto                 -     Rotwein
+vino blanco                -     Weißwein
+rojo                       -     rot (wird nicht für Wein verwendet)
+blanco                     -     Weiß
+quiero                     -     Ich will
+para mi                    -     Für mich
+amigo [m]                  -     Freund
+para mi amiga              -     Für meine Freundin
+que ban a tomar            -     Was willst du trinken?
+para usted                 -     Für dich (höflich)
+para su                    -     Für dein
+enseguida                  -     jetzt sofort
+es para mi                 -     Es ist für mich
+es para mi amigo           -     Es ist für meinen Freund
+Salud                      -     Zum Wohle
+de nada                    -     Gern geschehen
+
+
+# 1.16 Ordering food in a cafe
+otro                      -    andere, weitere
+otro vino                 -    ein weiterer Wein
+otra limonada             -    eine weitere Limonade
+lomismo                   -    das Gleiche
+otro de lomismo           -    ein weiteres des gleichen (etwas nochmal bestellen)
+se puede?                 -    Kann man?
+se puede                  -    Es kann
+se puede comer aqui?      -    Kann man hier essen?
+Nostrae                   -    Bringen Sie uns
+Nostrae la carta          -    Bringen Sie uns die Karte
+Me trae                   -    Bringem Sie mir
+menú [m]                  -    Speisekarte
+carta (del menú)          -    Speisekarte
+bocadillo [m]             -    Sandwich
+emparedado [m]            -    Sandwich
+sándwich [m]              -    Sandwich
+jamón [m]                 -    Schinken
+queso [m]                 -    Käse
+ración [f]                -    Portion 
+ensalada [f]              -    Salat
+algo                      -    etwas
+quiere algo más?          -    Willst du noch etwas anderes?
+quieren algo más?         -    Wollt ihr noch etwas anderes?
+Nostrae más agua?         -    Können sie und mehr Wasser bringen?
+pan [m]                   -    Brot
+cuenta [f]                -    Rechnung
+semana [f]                -    Woche
+verda?                    -    Nicht wahr? (Am Ende vom Satz)
+
+estudias o trabajas?      -    Studierst du oder arbeites du?
+estas a companiada? [f]   -    Bist du in Gesellschaft?
+nos conocemos?            -    Kennen wir uns?
+no eres de aqui verda     -    Du bist nicht von hier
+eres guapa [f]            -    Du bist hübsch
+ojo [m]                   -    Auge
+Me gustan tus ojos        -    Ich mag deine Augen
+te quiero                 -    Ich liebe dich
+quiero pasar              -    Ich möchte verbringen
+toda mi vida              -    Mein ganzes Leben
+contigo                   -    mit dir
+quiero pasar toda mi vida contigo  - Ich möchte mein ganzes Leben mit dir verbringen
+
+
+# 1.17 Ordering food in a restaurant
+hambre [f, el]            -     Hunger
+tengo hambre              -     Ich habe Hunger / Ich bin hungrig
+sed [f]                   -     Durst
+tengo sed                 -     Ich habe Durst
+mesa [f]                  -     Tisch
+tiene una mesa            -     Haben sie einen Tisch?
+para cuantas personas?    -     Für wie viele Personen?
+para cuatro personas      -     Für vier Personen
+fumador [m]               -     Raucher
+cerrado                   -     geschlossen
+lleno                     -     voll 
+estamos llenos            -     Wir sind voll
+no tenemos mesas          -     Wir haben keine Tische
+hay que                   -     Müssen
+hay que esparar           -     Sie müssen warten
+silla [f]                 -     Stuhl 
+quiero esto               -     Ich will das (zeigen)
+quisiera esto             -     Das würde mir gefallen
+Qué lleva?                -     Was ist da drin?
+plato                     -     Gericht
+estar                     -     sein
+que estan comiendo ellos? -     Was essen sie? (dort drüben)
+que estas comiendo tu?    -     Was isst du?
+estoy comiendo carne      -     Ich esse Fleisch
+que me recomienda?        -     Was empfehlen Sie?
+
+Qué lleva este plato?     -     Was ist in diesem Gericht enthalten?
+Quanto hay que esparar?   -     Wie lange muss man warten?
+Tiene una mesa para cuatro  -   Hab3n Sie einen Tisch für vier Personen
+
+
+# 1.18 Situations in a restaurant
+listo                     -     bereit
+vegetariano               -     Vegetarier
+comer                     -     essen
+como                      -     Ich esse
+carne [f]                 -     Fleisch
+carne roja                -     rotes Fleisch
+marisco [m]               -     Meeresfrucht
+pescado [m]               -     Fisch
+alérgico                  -     allergisch
+nuez [f]                  -     Nuss
+nueces                    -     Nüsse
+productos lacteos         -     Milchprodukte
+Que aproveche             -     Guten Appetit
+esta                      -     es ist
+frio                      -     kalt
+esto                      -     das, das hier, dies (hier)
+Esto esta frio            -     Dies ist kalt
+cliente                   -     heiß
+demasiado                 -     zu sehr, zu viel
+quemar                    -     brennen
+quemado                   -     verbrannt
+picante                   -     scharf
+buenísimo                 -     sehr gut
+riquisimo                 -     köstlich
+satisfecho                -     satt, zufrieden
+
+
+* soy vs estoy:
+*   soy -> permanent
+ *  estoy -> im moment, temporär
+
+Esto esta demasiado frio  -     Dies ist zu kalt 
+Soy alérgico a los productos lacteos -  Ich bin allergisch gegen Milchprodukte
+
+
+# 1.19 Review of the unit
+Tengo hambre               -    Ich habe Hunger
+Hablas espanol?            -    Sprichts du spanisch?
+Donde esta la cathedral?   -    Wo ist die Katehdrale?
+Hay un banco por aqui?     -    Ist hier eine Bank in der Nähe?
+Se puede comer aqui?       -    Kann man hier in der Nähe essen?
+
+Que ban a tomar?                       -    Was möchten sie trinken?
+Nostrae la cuenta por favor?           -    Könnten Sie bitte die Rechnung bringen
+hay una farmacia cerca de aqui?        -    Ist hier eine Apotheke in der Nähe?
+El banco esta enfrente de la piscina   -    Die Bank ist gegenüber vom Pool
+Estoy aprendiendo espanol              -    Ich lerne spanisch
+muy fomoso                             -    sehr berühmt
+
+aver                       -    Mal sehen
+plano                      -    Karte
+indicar                    -    zeigen
+calle                      -    Straße
+segundo                    -    zweite
+a pie                      -    zu fuß
+
+me puede indicar           -    Könntest du mir zeigen?
+
+
+# 1.20 Cultural programme in a spanish restaurant
+claro                      -    klar
+quieres seguirme?          -    Wollen sie mir folgen?
+algo                       -    etwas
+me apetece                 -    Ich möchte
+un baso de tinto           -    Ein Glas Rotwein
+estan listos               -    Sind sie bereit?
+estan listos para pedir    -    Sind sie ebreit zu bestellen?
+lleva carne este plato     -    Ist in diesem Gericht Fleisch?
+albondiga                  -    Frikadelle
+postre                     -    Nachspeise
+helado                     -    Eiscreme
+Tarjeta de crédito         -    Kreditkarte
+
+
+# 1.21 Weather
+estas lista/o              -    Bist du bereit?
+claro que si               -    Na sicher
+tiempo [m]                 -    Wetter
+hace                       -    machen
+hoy                        -    heute
+que tiempo hace?           -    Wie ist das Wetter?
+que tiempo hace hoy?       -    Wie ist das Wetter heute?
+sol [f]                    -    Sonne
+hace sol                   -    Es ist sonnig
+viento [m]                 -    Wind
+hace viento                -    Es ist windig
+frio                       -    kalt
+hace frio                  -    Es ist kalt
+calor [m]                  -    Wärme
+hace calor                 -    Es ist warm
+hace buen tiempo           -    Es ist gutes Wetter
+hace mal tiempo            -    Es ist schlechtes Wetter
+llover                     -    regnen
+llueve                     -    Es regnet
+nevar                      -    schneien
+va a llover                -    Es wird regnen
+manana va a nevar          -    Morgen wird es schneien
+manana va a hacer sol      -    Morgen wird es sonnig
+manana va a hacer frio     -    Morgen wird es kalt
+
+que tiempo va a hacer manana -   Wie wird das Wetter morgen?
+
+
+# 1.24 Hotels and Accomodation
+reserva [f]                -    Reservierung
+habitación [f]             -    Zimmer
+cuarto [m]                 -    Zimmer
+Quisiera                   -    Ich hätte
+Quisiera una habitación    -    Ich hätte gerne ein Zimm
+individual                 -    einzeln, persönlich, individuell
+habitación individual      -    Einzelzimmer
+doble                      -    doppelt
+habitación doble           -    Doppelzimmer
+cama [f]                   -    Bett
+matrimonio                 -    Ehe
+cama de matrimonio         -    Doppelbett, Ehebett
+dos camas                  -    zwei Betten
+baño [m]                   -    Bad
+ducha [f]                  -    Dusche
+vista [f]                  -    Blick
+vista al mar               -    Meeresblick
+con vistas al mar          -    mit Meeresblick
+montaña [f]                -    Berg
+para cuantas noches?       -    Für wie viele Nächte?
+semana [f]                 -    Woche
+cuanto cuesta?             -    Wie viel kostet es?
+cuanto cuesta por noche?   -    Wie viel kostet es pro Nacht?
+cuanto cuesta por persona  -    Wie viel kostet es pro Person
+
+
+# 1.25 Problems in a Hotel
+- Words ending with ema & ama come from greek and as masculin... wtf
+
+hay                       -     Es gibt
+problema [m]              -     Problem
+demasiado                 -     zu sehr, zu viel
+ruidoso                   -     laut
+caro                      -     teuer
+sucio                     -     dreckig, schmutzig
+limpio                    -     sauber
+funcionar                 -     funktionieren
+televisión [f]            -     Fernseher
+aire [m]                  -     Luft 
+aire acondicionado        -     Klimaanlage
+abrir                     -     öffnen
+ventana [f]               -     Fenster
+encender                  -     anschalten
+luz [f]                   -     Licht
+acceder                   -     zugreifen
+internet [m]              -     Internet
+toalla [f]                -     Handtuch
+jabón [m]                 -     Seife
+papel [m]                 -     Papier
+papel higiénico           -     Toilettenpapaier
+agua caliente             -     Heißes Wasser
+
+la ducha no funciona                  -    Die Dusche funktioniert nicht
+hay un problma con la habitación      -    Es gibt ein Problem mit dem Zimmer
+la habitación es demasiado pequeña    -    Das Zimmer ist zu klein
+la habitación esta sucia              -    Der Raum ist schmutzig
+hace demasiado frio en la habitación  -    Es ist zu kalt im Zimmer
+no puedo abrir la ventana             -    Ich kann das Fenster nicht öffnen
+no puedo encender la luz              -    Ich kann das Licht nicht anschalten
+no puedo acceder el internet          -    Ich komme nicht ins Internet
+no hay toallas                        -    Es gibt keine Handtücher
