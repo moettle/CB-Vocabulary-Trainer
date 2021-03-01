@@ -1,8 +1,14 @@
 #!/usr/bin/python3
 
 import random
+import os
 
-spanish_german_dict = {}
+dict_dir = "./Dictionaries/"
+training_dict = {}
+
+cb_dict = True
+duo_dict = True
+german = True
 
 # sorry for not using a common format
 def parse_line(input_line):
@@ -13,67 +19,77 @@ def parse_line(input_line):
     return (spanish, translation)
 
 
-def read_dictionary():
-    global spanish_german_dict
-    with open("./Dictionaries/spanish_german.txt", "r") as f:
-        dictionary_lines = f.read().splitlines()
+def read_dictionaries():
+    global training_dict
+
+    for f in os.listdir(dict_dir):
+        if (not cb_dict and "CB" in f) or (not duo_dict and "DUO" in f) or (not german and "german" in f):
+            continue
+
+        with open(os.path.join(dict_dir, f), "r") as f:
+            dictionary_lines = f.read().splitlines()
     
-    for l in dictionary_lines:
-        parsed = parse_line(l)
-        if parsed != None:
-            spanish_german_dict[parsed[0]] = parsed[1]
+        for l in dictionary_lines:
+            parsed = parse_line(l)
+            if parsed != None:
+                training_dict[parsed[0]] = parsed[1]
 
 
 def pretty_print_dict():
-    global spanish_german_dict
+    global training_dict
     
     # find longest spanish phrase
     key_length_longest = 0
-    for k in spanish_german_dict:
+    for k in training_dict:
         if len(k) > key_length_longest:
             key_length_longest = len(k)
     
-    for k in spanish_german_dict:
+    for k in training_dict:
         padding = " " * (key_length_longest - len(k))
-        print(k + padding + " -     " +  spanish_german_dict[k])
+        print(k + padding + " -     " +  training_dict[k])
 
 def clean_word(word):
-    replace_list = ["ñ", "ú", " ", "[m]", "[f]", "?", "!", ".", ","]
+    replace_list = ["ñ", "ú", "í", "é", " ", "[m]", "[f]", "?", "!", ".", ","]
     word = word.lower()
     for r in replace_list:
         word = word.replace(r, "")
     return word
 
 def train():
-    global spanish_german_dict
+    global training_dict
 
     print("Please translate the following words/phrases:")
-    dict_size = len(spanish_german_dict)
+    dict_size = len(training_dict)
     for i in range(1000):
         word_index = random.randint(0,dict_size-1)
         # 0: Translate the spanish phrase 
         # 1: Translate the english/germen phrase
         mode = random.randint(0,1)
 
-        test = list(spanish_german_dict.items())[word_index]
+        test = list(training_dict.items())[word_index]
         question = ""
-        answer = ""
+        correct_answers = ""
         if mode == 0:
             question = test[0]
-            answer = test[1]
+            correct_answers = test[1].split(",")
         else:
             question = test[1]
-            answer = test[0]
-        
+            correct_answers = [test[0]]
+
         print(question)
-
-        answer_clean = clean_word(answer)
+        
         answer_given = clean_word(input())
-
-        if answer_clean == answer_given:
-            print("[+] Correct! \"" + question + "\" translated is: \"" + answer + "\"")
+        
+        # check multiple answeres (separated by comma)
+        answered_correctly = False
+        for a in correct_answers:
+            if answer_given == clean_word(a):
+                answered_correctly = True
+        
+        if answered_correctly:
+            print("[+] Correct! \"" + question + "\" translated is: \"" + ",".join(correct_answers) + "\"")
         else:
-            print("[-] Not Correct! \"" + question + "\" translated is: \"" + answer + "\"")
+            print("[-] Not Correct! \"" + question + "\" translated is: \"" + ",".join(correct_answers) + "\"")
         
         print()
 
@@ -81,8 +97,6 @@ def train():
     exit()
 
 
-read_dictionary()
-
+read_dictionaries()
 #pretty_print_dict()
-
 train()
