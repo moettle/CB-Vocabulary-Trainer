@@ -702,3 +702,43 @@ comprar                               -    kaufen
 Donde se puede comprar leche?         -    Wo kann man Milch kaufen?
 Donde se puede comprar cafe?          -    Wo kann man Kaffee kaufen?
 Donde se puede comprar pan?           -    Wo kann man Brot kaufen?
+
+
+# 1.25 Shopping
+// ando or iendo -> progressive form
+
+ayudar                                -    helfen
+en qué puedo ayudarle?                -    Was kann ich helfen?
+mirar                                 -    schauen
+estoy mirando                         -    Ich schaue
+sólo estoy mirando                    -    Ich schaue nur
+seguro                                -    sicher
+no estoy seguro                       -    Ich bin mir nicht sicher 
+tarde                                 -    spät
+más tarde                             -    später
+volver                                -    zurückkommen
+vuelvo más tarde                      -    Ich komme später wieder
+lo                                    -    es
+me lo llevo                           -    Ich nehme es 
+cuanto cuestan?                       -    Wie viel kosten sie?
+pagar                                 -    zahlen
+puedo pagar con tarjeta de crédito    -    Kann ich mir Kreditkarte zahlen?
+ver                                   -    sehen
+puedo ver su dni?                     -    Kann ich ihren Ausweis sehen?
+puedo ver su pasaporte?               -    Kann ich ihren Reisepass sehen? 
+recibo [m]                            -    Quitting, Kassenbon
+bolsa [f]                             -    Tasche
+me puede dar?                         -    Kannst du mir geben?
+me puede dar un recibo?               -    Können Sie mir eine Quitting geben?
+me puede dar una bolsa?               -    Können Sie mir eine Tasche geben?
+
+probar                                -    probieren, versuchen
+puedo probar me esto?                 -    Kann ich das anprobieren?
+probador                              -    Umkleidekabine
+Donde estan los probadores?           -    Wo sind die Umkleidekabinen?
+quedar                                -    passen
+me queda bien?                        -    Sieht es gut aus?
+grande                                -    groß
+pequeño                               -    klein
+Es demasiado grande                   -    Es ist zu groß
+Es demasiado pequeño                  -    Es ist zu klein
