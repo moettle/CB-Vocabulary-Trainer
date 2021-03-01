@@ -1,0 +1,301 @@
+# Grundlagen 1
+mujer                  -         Frau
+hombre                 -         Mann
+nino                   -         Junge
+nina                   -         Mädchen
+hoy                    -         heute
+o                      -         oder
+yo soy                 -         ich bin
+comer                  -         essen
+Tu comes               -         Du isst
+Ella come              -         Sie isst
+tu                     -         Du
+es                     -         ist
+usted                  -         Sie
+manzana                -         Apfel
+una                    -         Eine
+tu eres                -         Du bist
+eres                   -         bist
+Ella                   -         sie
+beber                  -         trinken
+leche [f]              -         Milch
+pan                    -         Brot
+como                   -         wie
+Yo bebo                -         Ich trinke
+agua [f]               -         Wasser
+- 
+el aqua                -         Das Wasser
+La mujer se bebe el aqua   -     Die Frau trinkt das Wasser
+El bebe el agua        -         Er trinkt das Wasser
+
+
+# Grundlagen 2
+los hombres               -    Die Männer
+las mujeres               -    Die Frauen
+Nosotras bebemos          -    Wir trinken
+Nosotros somos            -    Wir sind
+Ustedes son               -    Sie sind
+Ellos son                 -    Sie sind
+Ellos beben               -    Sie trinken
+Ellas son mujeres         -    Sie sind Frauen
+Vosotros comeis pan       -    Ihr esst Brot
+vino [m]                  -    Wein
+libro [m]                 -    Buch
+carta [f]                 -    Brief
+escribir                  -    schreiben
+Ella escribe              -    Sie schreibt
+Tú escribes               -    Du schreibst 
+Nosotros escribimos       -    Wir schreiben
+diario [m]                -    Zeitung
+leer                      -    lesen
+Tú lees                   -    Du liest
+Yo leo                    -    Ich lese
+Nosotros leemos           -    Wir lesen
+Vosotras leeis            -    Ihr lest
+los                       -    die
+persona                   -    Person
+tomar                     -    trinken
+son ustedes?              -    Sind sie es?
+
+# Ausdrücke
+Buenos dias               -    Guten Tag
+Mucho gusto               -    Sehr erfreut
+Adios                     -    Tschüss
+Hola                      -    Hallo
+Buenas noches             -    Gute Nacht
+Gracias                   -    Danke
+Perdon                    -    Verzeihung
+Lo siento                 -    Tut mir Leid
+no                        -    nicht
+Por favor                 -    Bitte
+Si                        -    Ja
+de nada                   -    Gern geschehen
+nada                      -    nichts
+Disculpe                  -    Verzeihung, Entschuldigung
+Tu hablas                 -    Du sprichst
+Yo hablo                  -    Ich spreche
+Tu hablas ingles?         -    Sprichst du englisch?
+espanol                   -    spanisch
+hablas espanol?           -    Sprichst du spanisch?
+pescado                   -    Fisch
+limon                     -    Zitrone
+
+
+# Essen
+pescado [m]               -    Fisch
+arroz [m]                 -    Reis
+pollo [m]                 -    Hähnchen
+huevo [m]                 -    Ei
+cocinar                   -    kochen
+sopa [f]                  -    Suppe
+pasta [f]                 -    Nudeln
+queso [m]                 -    Der Käse
+fruta [f]                 -    Obst
+jugo [m]                  -    Saft
+naranja [f]               -    Orange
+carne [f]                 -    Fleisch
+salsa [f]                 -    Soße
+almuerzo [m]              -    Mittagessen
+comida [f]                -    Essen
+limon [m]                 -    Zitrone
+tomate [m]                -    Tomate
+papa [f]                  -    Kartoffel
+fresa [f]                 -    Erdbeere
+menu [m]                  -    Speisekarte
+azucar [m]                -    Zucker
+sal [f]                   -    Salz
+cebolla [f]               -    Zwiebel
+emparedado [m]            -    belegtes Brot, Sandwich
+cena [f]                  -    Abendessen
+desayuno [m]              -    Frühstück
+cerveza [f]               -    Bier
+verdura [f]               -    Gemüse
+té [m]                    -    Tee
+galleta [f]               -    Keks
+vegetariana [f]           -    Vegetarierin
+
+
+# Tiere
+perro [m]                 -    Hund
+perros                    -    Hunde
+gato [m]                  -    Katze 
+gate [w]                  -    Katze
+gatas [w]                 -    Katzen 
+caballo [m]               -    Pferd
+pato [m]                  -    Ente
+tortuga [f]               -    Schildkröte
+elefante [m]              -    Elefant
+pingüino [m]              -    Pinguin
+araña [f]                 -    Spinne
+cangrejo [m]              -    Krebs
+oso [m]                   -    Bär
+animal [m]                -    Tier
+pájaro [m]                -    Vogel
+león [m]                  -    Löwe
+cerdo [m]                 -    Schwein
+conejo [m]                -    Kaninchen
+ratón [m]                 -    Maus
+toro [m]                  -    Stier, Bulle
+mono [m]                  -    Affe
+pájaro [m]                -    Vogel
+cangrejo [m]              -    Krebs
+
+# Plural
+los libros                -    Die Bücher
+las cartas                -    Die Briefe
+los pescados              -    Die Fische
+las llaves                -    Die Schlüssel
+las manzanas              -    Äpfel
+las palabras              -    Die Worte
+los diarios               -    Die Zeitungen
+las fresas                -    Die Erdbeeren
+periódico [m]             -    Zeitung
+
+
+# Possesiv
+mi                        -    mein
+mis                       -    meine
+nuestro [m]               -    unser
+nuestros [m]              -    unsere
+nuestra [f]               -    unser
+nuestras [f]              -    unsere
+su                        -    sein, ihr
+sus                       -    seine
+tu                        -    dein
+tus                       -    deine 
+suyo                      -    seine
+mio                       -    mir
+mia                       -    meine
+
+
+# Kleidung
+sombrero [m]              -    Hut
+zapato [m]                -    Schuh
+abrigo [m]                -    Mantel
+camisa [f]                -    Hemd
+pantalones [m]            -    Hose
+vestido [m]               -    Kleid
+ropa [f]                  -    Kleidung
+cinturón [m]              -    Gürtel
+corbata [f]               -    Krawatte
+bota [f]                  -    Stiefel
+traje [m]                 -    Anzug
+gafas [f]                 -    Brille
+suéter [m]                -    Pullover
+falda [f]                 -    Rock
+calcetín [m]              -    Socke
+
+
+# Fragen
+quién                     -    Wer
+quiénes                   -    Wer
+como                      -    Wie bitte?
+cuales                    -    Was
+pregunta [f]              -    Frage
+cuánto                    -    Wie viel
+cual                      -    Welches
+Cuándo                    -    Wann
+Qué                       -    Was
+Qué hace?                 -    Was macht?
+
+
+# V: Präs. 1
+dormir                    -    schlafen
+duermen                   -    Sie schlafen
+cocina [f]                -    Küche
+correr                    -    laufen, rennnen
+corro                     -    Ich laufe
+tener                     -    haben
+tenemos                   -    Wir haben
+nadar                     -    schwimmen
+nadamos                   -    Wir schwimmen
+caminar                   -    laufen 
+caminan                   -    Sie laufen
+ver                       -    sehen
+veo                       -    Ich sehe
+voy                       -    Ich gehe
+vamos                     -    Wir gehen
+querer                    -    jdn/etw mögen
+Quieres?                  -    Möchtest du?
+pagar                     -    zahlen
+puder                     -    können
+puedo                     -    ich kann
+oir                       -    hören
+oye                       -    hört
+hacer                     -    machen
+tocar                     -    berühren, spielen
+oigo                      -    Ich höre
+Ella va                   -    Sie geht
+
+
+# Farben
+amarillo                  -    gelb
+roja                      -    rot
+colores                   -    Farben
+gris                      -    grau
+azul                      -    blau
+negro/a                   -    schwarz
+naranja                   -    orange
+verde                     -    grün
+blanco                    -    weiß
+
+
+# Konjunktionen
+pero                      -    aber
+porque                    -    weil
+o                         -    oder
+o ... o                   -    entweder oder
+y                         -    und
+e                         -    und
+ni                        -    weder, noch, nicht einmal
+si                        -    wenn
+que                       -    dass
+mientras                  -    wohingegen, solange, während
+sino                      -    sondern
+aunque                    -    obwohl
+como                      -    wie
+cuando                    -    wenn
+
+
+# Familie
+madre [f]                 -    Mutter
+padre [m]                 -    Vater
+esposo [m]                -    Ehemann
+tio                       -    Onkel
+tia                       -    Tante
+hija [f]                  -    Tochter
+hijo [m]                  -    Sohn
+hermanos                  -    Geschiwster
+hermana [f]               -    Schwester
+familia [f]               -    Familie
+abuelo [m]                -    Großvater
+bebe [m]                  -    Baby
+novia [f]                 -    Freundin
+mairdo [m]                -    Ehemann
+mama                      -    Mama
+papa                      -    Papa
+primos                    -    Cousinen
+bebé [m]                  -    Baby
+
+
+# Präpositionen
+De que                    -    Worüber
+para                      -    für
+sobre                     -    auf
+en                        -    in, beim, zu
+del                       -    der, des, vom
+por que                   -    Warum
+entre                     -    zwischen
+encima                    -    auf
+contra                    -    gegen
+durante                   -    während
+con                       -    mit
+hacia                     -    zu, in Richtung, nach
+a                         -    zu, nach
+al                        -    zum
+sin                       -    ohne
+bajo                      -    unter
+acerca                    -    über
+cerca                     -    nahe
+según                     -    laut, gemäß, nach
+

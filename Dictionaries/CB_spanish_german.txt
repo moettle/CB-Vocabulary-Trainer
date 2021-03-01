@@ -7,7 +7,7 @@ muy bien            -      sehr gut
 mal                 -      schlecht
 fatal               -      sehr schlecht, schrecklich, miserable
 excelente           -      exzellent
-y tú                -      und du? (i tu)
+y tú                -      und du? 
 yo                  -      ich
 yo bien             -      Mir geht es gut
 estupendo           -      großartig
@@ -15,9 +15,9 @@ fenomenal           -      phänomenal
 
 
 # 1.02 Greetings
-buenos dias         -      Guten Morgen, Guten Tag (until 15:00)
+buenos dias         -      Guten Morgen, Guten Tag
 dia                 -      Tag
-buenas tardes       -      Guten Tag (Nachmittag ab 15:00)
+buenas tardes       -      Guten Tag
 buenas noches       -      Guten Abend, Gute Nacht 
 adios               -      Tschüss
 luego               -      später
@@ -27,20 +27,20 @@ hasta pronto        -      Bis bald
 manana              -      Morgen
 hasta manana        -      Bis morgen
 me llamo            -      Mein Name ist...
-encantado           -      erfreut, angenehm (für männlich)
+encantado           -      erfreut, angenehm
 
 
 # 1.03 Saying where you are from
 tu                    -    du
-usted                 -    Sie (formal)
+usted                 -    Sie 
 y tú                  -    und du?
 y usted               -    und Sie?
-Señor                 -    Herr (Anrede)
-Señorita              -    junge Frau (Anrede)
-Señora                -    Frau (Anrede)
+Señor                 -    Herr 
+Señorita              -    junge Frau 
+Señora                -    Frau 
 como                  -    Wie
 Cómo te llamas?       -    Wie heißt du?
-Cómo se llama usted?  -    Wie heißen Sie? (formal)
+Cómo se llama usted?  -    Wie heißen Sie? 
 De dónde eres?        -    Woher bist du?
 De dónde es usted?    -    Woher sind Sie?
 Soy de ...            -    Ich bin aus ...
@@ -57,16 +57,15 @@ también               -    auch
 
 # 1.04 More on nationalities
 Sí                       -   Ja
-No                       -   Nein, nicht (Negierung)
+No                       -   Nein nicht 
 Eres de alemania?        -   Bist du aus Deutschland?
-Es usted de alemania?    -   Sind Sie aus Deutschland? (formal)
-No, no soy de alemania   -   Nein, Ich bin nicht aus Deutschland
+Es usted de alemania?    -   Sind Sie aus Deutschland? 
+No, no soy de alemania   -   Nein Ich bin nicht aus Deutschland
 no soy                   -   Ich bin nicht
 soy                      -   Ich bin
-soy <Name>               -   Ich bin <Name>
 Vivo en Munich           -   Ich lebe in München
 Donde vives?             -   Wo lebst du?
-Donde vive usted?        -   Wo leben Sie? (formal)
+Donde vive usted?        -   Wo leben Sie? 
 pero                     -   aber
 ahora                    -   jetzt, nun
 
@@ -83,28 +82,28 @@ marido                 -     Ehemann
 mujer                  -     Ehefrau
 hijo                   -     Sohn
 hija                   -     Tochter
-me                     -     Mein (keine Fälle)
+me                     -     Mein
 me marido              -     Mein Ehemann
 me mujer               -     Meine Ehefrau
-este                   -     Dieser (maskulin)
-esta                   -     Diese (weiblich)
+este                   -     Dieser 
+esta                   -     Diese 
 es                     -     ist
 este es                -     Das ist
-Este es me marido      -     Das ist mein Ehemann (maskulin)
+Este es me marido      -     Das ist mein Ehemann 
 Esta es me mujer       -     Das ist meine Ehefrau
-Se                     -     sich selbst, man, sich (kein Geschlecht)
+Se                     -     sich selbst, man, sich 
 Se llama               -     Sein/Ihr Name ist
 
 
 # 1.06 Introduction to numbers
-Tu padre                -    Dein Vater (informal)
+Tu padre                -    Dein Vater 
 mamá                    -    Mutter 
 papá                    -    Vater
 tengo                   -    Ich habe
 tengo una hermana       -    Ich habe eine Schwester
 tengo un hermano        -    Ich habe einen Bruder
-una                     -    Ein (weiblich)
-un                      -    Ein (männlich)
+una                     -    Ein 
+un                      -    Ein 
 uno                     -    1
 dos                     -    2
 tres                    -    3
@@ -237,7 +236,7 @@ entiendo                   -   ich verstehe
 entiendes                  -   Verstehest du?
 No entiende                -   Ich verstehe nicht
 lo siento                  -   Tut mir leid
-aprendiendo                -   Ich lerne gerade (learning)
+aprendiendo                -   Ich lerne gerade 
 estoy aprendiendo espanol  -   Ich lerne spanisch
 poder                      -   können
 puedes?                    -   kannst du?
@@ -347,7 +346,7 @@ museo [m]                  -    Museum
 banco [m]                  -    Bank
 restaurante [m]            -    Restaurant
 mercado [m]                -    Markt
-plaza mayor [f]            -    Hauptplatz (Stadt)
+plaza mayor [f]            -    Hauptplatz
 officina de turismo [f]    -    Tourismusbüro
 piscina [f]                -    Schwimmbecken, Pool
 catedral [f]               -    Kathedrale
@@ -393,7 +392,7 @@ La piscina esta enfrente de la officina de turismo    -      Der Pool befindet g
 
 
 # 1.15 Ordering drinks in a cafe
-por favor                  -     Bitte (Aufmerksamkeit bekommen)
+por favor                  -     Bitte 
 café [m]                   -     Kaffee
 café con leche             -     Milchkaffee
 café solo                  -     Espresso 
@@ -401,8 +400,8 @@ café negro                 -     Schwarzer Kaffee
 negro                      -     schwarz
 cortado [m]                -     Espresso mit Milch
 té                         -     Tee
-zumo                       -     Saft (Spanisch)
-jugo                       -     Saft (lat. Amerikanisch)
+zumo                       -     Saft 
+jugo                       -     Saft 
 naranja [f]                -     Orange
 manzana [f]                -     Apfel
 jugo de manzana            -     Apfelsaft
@@ -415,18 +414,18 @@ con                        -     mit
 sin gas                    -     Ohne Kohlensäure
 con gas                    -     Mit Kohlensäure
 cerveza [f]                -     Bier
-caña [f]                   -     kleines Glas Bier (Spanisch)
+caña [f]                   -     kleines Glas Bier 
 vino [m]                   -     Wein
 vino tinto                 -     Rotwein
 vino blanco                -     Weißwein
-rojo                       -     rot (wird nicht für Wein verwendet)
+rojo                       -     rot 
 blanco                     -     Weiß
 quiero                     -     Ich will
 para mi                    -     Für mich
 amigo [m]                  -     Freund
 para mi amiga              -     Für meine Freundin
 que ban a tomar            -     Was willst du trinken?
-para usted                 -     Für dich (höflich)
+para usted                 -     Für dich 
 para su                    -     Für dein
 enseguida                  -     jetzt sofort
 es para mi                 -     Es ist für mich
@@ -440,7 +439,7 @@ otro                      -    andere, weitere
 otro vino                 -    ein weiterer Wein
 otra limonada             -    eine weitere Limonade
 lomismo                   -    das Gleiche
-otro de lomismo           -    ein weiteres des gleichen (etwas nochmal bestellen)
+otro de lomismo           -    ein weiteres des gleichen 
 se puede?                 -    Kann man?
 se puede                  -    Es kann
 se puede comer aqui?      -    Kann man hier essen?
@@ -448,7 +447,7 @@ Nostrae                   -    Bringen Sie uns
 Nostrae la carta          -    Bringen Sie uns die Karte
 Me trae                   -    Bringem Sie mir
 menú [m]                  -    Speisekarte
-carta (del menú)          -    Speisekarte
+carta           -    Speisekarte
 bocadillo [m]             -    Sandwich
 emparedado [m]            -    Sandwich
 sándwich [m]              -    Sandwich
@@ -463,7 +462,7 @@ Nostrae más agua?         -    Können sie und mehr Wasser bringen?
 pan [m]                   -    Brot
 cuenta [f]                -    Rechnung
 semana [f]                -    Woche
-verda?                    -    Nicht wahr? (Am Ende vom Satz)
+verda?                    -    Nicht wahr? 
 
 estudias o trabajas?      -    Studierst du oder arbeites du?
 estas a companiada? [f]   -    Bist du in Gesellschaft?
@@ -496,12 +495,12 @@ no tenemos mesas          -     Wir haben keine Tische
 hay que                   -     Müssen
 hay que esparar           -     Sie müssen warten
 silla [f]                 -     Stuhl 
-quiero esto               -     Ich will das (zeigen)
+quiero esto               -     Ich will das 
 quisiera esto             -     Das würde mir gefallen
 Qué lleva?                -     Was ist da drin?
 plato                     -     Gericht
 estar                     -     sein
-que estan comiendo ellos? -     Was essen sie? (dort drüben)
+que estan comiendo ellos? -     Was essen sie? 
 que estas comiendo tu?    -     Was isst du?
 estoy comiendo carne      -     Ich esse Fleisch
 que me recomienda?        -     Was empfehlen Sie?
@@ -527,7 +526,7 @@ productos lacteos         -     Milchprodukte
 Que aproveche             -     Guten Appetit
 esta                      -     es ist
 frio                      -     kalt
-esto                      -     das, das hier, dies (hier)
+esto                      -     das, das hier, dies
 Esto esta frio            -     Dies ist kalt
 cliente                   -     heiß
 demasiado                 -     zu sehr, zu viel
@@ -541,7 +540,7 @@ satisfecho                -     satt, zufrieden
 
 * soy vs estoy:
 *   soy -> permanent
- *  estoy -> im moment, temporär
+*   estoy -> im moment, temporär
 
 Esto esta demasiado frio  -     Dies ist zu kalt 
 Soy alérgico a los productos lacteos -  Ich bin allergisch gegen Milchprodukte
