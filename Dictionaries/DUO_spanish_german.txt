@@ -271,7 +271,7 @@ familia [f]               -    Familie
 abuelo [m]                -    Großvater
 bebe [m]                  -    Baby
 novia [f]                 -    Freundin
-mairdo [m]                -    Ehemann
+marido [m]                -    Ehemann
 mama                      -    Mama
 papa                      -    Papa
 primos                    -    Cousinen

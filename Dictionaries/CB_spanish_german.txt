@@ -726,10 +726,10 @@ puedo pagar con tarjeta de crédito    -    Kann ich mir Kreditkarte zahlen?
 ver                                   -    sehen
 puedo ver su dni?                     -    Kann ich ihren Ausweis sehen?
 puedo ver su pasaporte?               -    Kann ich ihren Reisepass sehen? 
-recibo [m]                            -    Quitting, Kassenbon
+recibo [m]                            -    Quittung, Kassenbon
 bolsa [f]                             -    Tasche
 me puede dar?                         -    Kannst du mir geben?
-me puede dar un recibo?               -    Können Sie mir eine Quitting geben?
+me puede dar un recibo?               -    Können Sie mir eine Quittung geben?
 me puede dar una bolsa?               -    Können Sie mir eine Tasche geben?
 
 probar                                -    probieren, versuchen
@@ -742,3 +742,28 @@ grande                                -    groß
 pequeño                               -    klein
 Es demasiado grande                   -    Es ist zu groß
 Es demasiado pequeño                  -    Es ist zu klein
+
+
+# 1.26 At the market in Spain
+quisiera                              -    Ich möchte
+loncha [f]                            -    Scheibe
+cuatro lonchas de hamon               -    4 Scheiben Schinken
+ponga me                              -    setze mich
+de me                                 -    gib mir
+de me cuatro lonchas de hamon         -    Gib mir 4 Scheiben Schinken
+trozo [m]                             -    Stück
+un trozo de queso                     -    Ein Stück Käse
+kilo [m]                              -    Kilo
+medio                                 -    halb
+medio kilo                            -    halbes Kilogramm   
+eso                                   -    das, dies
+un poco de eso                        -    ein bisschen davon
+que es eso?                           -    Was ist das?
+puedo probarlo                        -    Darf ich es probieren
+un poco mas                           -    ein bsischen mehr
+un poco menos                         -    ein bisschen weniger
+vale a si                             -    Ok ja
+pulsera [f]                           -    Armband
+es muy caro                           -    es ist sehr teuer
+tiene algo mas barato                 -    Haben Sie etwas günstigeres
+me lo llevo                           -    Ich nehem es
