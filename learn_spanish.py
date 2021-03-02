@@ -49,10 +49,16 @@ def pretty_print_dict():
         print(k + padding + " -     " +  training_dict[k])
 
 def clean_word(word):
-    replace_list = ["ñ", "ú", "í", "é", "ó", " ", "[m]", "[f]", "?", "!", ".", ","]
+    replace_list = [" ", "[m]", "[f]", "?", "!", ".", ","]
     word = word.lower()
     for r in replace_list:
         word = word.replace(r, "")
+    
+    word = word.replace("ñ", "n") 
+    word = word.replace("ú", "u")
+    word = word.replace("í", "i")
+    word = word.replace("é", "e")
+    word = word.replace("ó", "o")
     return word
 
 def train():
@@ -95,7 +101,6 @@ def train():
 
     print("Congrats, you trained a lot today!")
     exit()
-
 
 read_dictionaries()
 #pretty_print_dict()
