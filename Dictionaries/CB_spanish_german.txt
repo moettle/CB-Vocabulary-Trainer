@@ -479,7 +479,7 @@ quiero pasar toda mi vida contigo  - Ich möchte mein ganzes Leben mit dir verbr
 
 
 # 1.17 Ordering food in a restaurant
-hambre [f, el]            -     Hunger
+hambre [f]                -     Hunger
 tengo hambre              -     Ich habe Hunger / Ich bin hungrig
 sed [f]                   -     Durst
 tengo sed                 -     Ich habe Durst
@@ -767,3 +767,31 @@ pulsera [f]                           -    Armband
 es muy caro                           -    es ist sehr teuer
 tiene algo mas barato                 -    Haben Sie etwas günstigeres
 me lo llevo                           -    Ich nehem es
+
+
+# 1.27 Exchanging Currency
+dinero [m]                            -    Geld
+cambiar                               -    wechseln, ändern
+sacar                                 -    herausnehmen, entnehmen
+firmar                                -    unterschreiben, verfassen
+quiero cambiar dinero                 -    Ich möchte Geld wechseln
+necesitar                             -    müssen, brauchen, benötigen
+necesito                              -    Ich muss
+necesito cambiar dinero               -    Ich muss Geld wechseln
+servir                                -    dienen, bedienen
+en qué puedo servirle?                -    Womit kann ich Ihnen behilflich sein?
+se puede cambiar dinero aqui?         -    Kann hier Geld ausgetauscht werden?
+cuanto quiere cambiar?                -    Wie viel willst du wechseln?
+dólar [m]                             -    Dollar
+dólares                               -    Dollar
+libra                                 -    Pfund
+libras                                -    Pfund
+euro [m]                              -    Euro
+euros                                 -    Euros
+Donde firmo?                          -    Wo unterschreibe ich?
+Necesita firmar aqui                  -    Sie müssen hier unterschreiben
+cajero [m]                            -    Kassierer 
+cajero automático                     -    Geldautomat
+tragar                                -    schlucken
+
+puedo sacar dinero con mi tarjeta de crédito    -    Kann ich mit meiner Kreditkarte Geld abheben?
