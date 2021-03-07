@@ -298,4 +298,20 @@ bajo                      -    unter
 acerca                    -    über
 cerca                     -    nahe
 según                     -    laut, gemäß, nach
+va                        -    er geht
+
+
+# Zeit
+calendario [m]            -    Kalender
+lunes [m]                 -    Montag
+martes [m]                -    Dienstag
+miércoles [m]             -    Mittwoch
+jueves                    -    Donnerstag
+viernes                   -    Freitag
+sábado                    -    Samstag
+domingo                   -    Sonntag
+Los martes                -    Dienstags
+ayer                      -    gestern
+hoy                       -    heute
+mañana                    -    morgen
 

@@ -307,13 +307,13 @@ treinta mil                -   30000
 trescientos mil            -   300000
 un millón                  -   1000000
 dos millones               -   2000000
-lunes                      -   Montag
-martes                     -   Dienstag
-miércoles                  -   Mittwoch
-jueves                     -   Donnerstag
-viernes                    -   Freitag
-sábado                     -   Samstag
-domingo                    -   Sonntag
+lunes [m]                  -   Montag
+martes [m]                 -   Dienstag
+miércoles [m]              -   Mittwoch
+jueves [m]                 -   Donnerstag
+viernes [m]                -   Freitag
+sábado [m]                 -   Samstag
+domingo [m]                -   Sonntag
 enero                      -   Januar
 febrero                    -   Februar
 marzo                      -   März
