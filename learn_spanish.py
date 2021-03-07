@@ -59,6 +59,7 @@ def clean_word(word):
     word = word.replace("í", "i")
     word = word.replace("é", "e")
     word = word.replace("ó", "o")
+    word = word.replace("á", "a")
     return word
 
 def train():
