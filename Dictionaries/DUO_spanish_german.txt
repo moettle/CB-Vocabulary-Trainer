@@ -50,8 +50,8 @@ diario [m]                -    Zeitung
 leer                      -    lesen
 Tú lees                   -    Du liest
 Yo leo                    -    Ich lese
-Nosotros leemos           -    Wir lesen
-Vosotras leeis            -    Ihr lest
+leemos                    -    Wir lesen
+leeis                     -    Ihr lest
 los                       -    die
 persona                   -    Person
 tomar                     -    trinken

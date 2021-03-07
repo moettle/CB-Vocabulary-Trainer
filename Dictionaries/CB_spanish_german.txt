@@ -118,7 +118,7 @@ hermanos                -    Brüder
 mujeres                 -    Ehefrauen
 se llaman               -    namens, Ihre namen sind
 Quién                   -    Wer
-Quién eres              -    Wer bist du?105
+Quién eres              -    Wer bist du?
 
 # 1.07 Jobs
 profesor [m]            -    Lehrer
@@ -507,7 +507,7 @@ que me recomienda?        -     Was empfehlen Sie?
 
 Qué lleva este plato?     -     Was ist in diesem Gericht enthalten?
 Quanto hay que esparar?   -     Wie lange muss man warten?
-Tiene una mesa para cuatro  -   Hab3n Sie einen Tisch für vier Personen
+Tiene una mesa para cuatro  -   Haben Sie einen Tisch für vier Personen
 
 
 # 1.18 Situations in a restaurant
@@ -548,7 +548,7 @@ Soy alérgico a los productos lacteos -  Ich bin allergisch gegen Milchprodukte
 
 # 1.19 Review of the unit
 Tengo hambre               -    Ich habe Hunger
-Hablas espanol?            -    Sprichts du spanisch?
+Hablas espanol?            -    Sprichst du spanisch?
 Donde esta la cathedral?   -    Wo ist die Katehdrale?
 Hay un banco por aqui?     -    Ist hier eine Bank in der Nähe?
 Se puede comer aqui?       -    Kann man hier in der Nähe essen?
@@ -577,7 +577,7 @@ algo                       -    etwas
 me apetece                 -    Ich möchte
 un baso de tinto           -    Ein Glas Rotwein
 estan listos               -    Sind sie bereit?
-estan listos para pedir    -    Sind sie ebreit zu bestellen?
+estan listos para pedir    -    Sind sie bereit zu bestellen?
 lleva carne este plato     -    Ist in diesem Gericht Fleisch?
 albondiga                  -    Frikadelle
 postre                     -    Nachspeise
