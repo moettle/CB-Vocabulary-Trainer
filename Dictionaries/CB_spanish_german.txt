@@ -795,3 +795,28 @@ cajero automático                     -    Geldautomat
 tragar                                -    schlucken
 
 puedo sacar dinero con mi tarjeta de crédito    -    Kann ich mit meiner Kreditkarte Geld abheben?
+
+
+# 1.28 Aches and pains
+no estoy bien                         -    Mir geht es nicht gut
+me siento bien                        -    Ich fühle mich gut
+no me siento bien                     -    Ich fühle mich nicht gut
+enfermo                               -    krank
+estoy enfermo                         -    Ich bin krank
+doler                                 -    wehtun
+donde le duele?                       -    Wo tut es weh?
+me duele aqui                         -    Es tut hier weh
+cabeza [f]                            -    Kopf
+me duele la cabeza                    -    Mein Kopf tut weh
+estómago [m]                          -    Magen
+garganta [f]                          -    Hals, Kehle, Rachen, Gurgel
+dolor de garganta                     -    Halsschmerz
+pierna [f]                            -    Bein
+brazo [m]                             -    Arm 
+me duelen los brazos                  -    Meine Arme tun weh
+ojo [m]                               -    Auge
+oreja [f]                             -    Ohr
+pie [m]                               -    Fuß
+boca [f]                              -    Mund
+nariz [f]                             -    Nase
+hombro [m]                            -    Schulter
