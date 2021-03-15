@@ -101,6 +101,7 @@ limon [m]                 -    Zitrone
 tomate [m]                -    Tomate
 papa [f]                  -    Kartoffel
 fresa [f]                 -    Erdbeere
+frutilla [f]              -    Erdbeere
 menu [m]                  -    Speisekarte
 azucar [m]                -    Zucker
 sal [f]                   -    Salz
@@ -269,6 +270,7 @@ hermanos                  -    Geschiwster
 hermana [f]               -    Schwester
 familia [f]               -    Familie
 abuelo [m]                -    Großvater
+abuela [f]                -    Großmutter
 bebe [m]                  -    Baby
 novia [f]                 -    Freundin
 marido [m]                -    Ehemann
@@ -292,7 +294,7 @@ durante                   -    während
 con                       -    mit
 hacia                     -    zu, in Richtung, nach
 a                         -    zu, nach
-al                        -    zum
+al                        -    zum, pro
 sin                       -    ohne
 bajo                      -    unter
 acerca                    -    über
@@ -306,12 +308,28 @@ calendario [m]            -    Kalender
 lunes [m]                 -    Montag
 martes [m]                -    Dienstag
 miércoles [m]             -    Mittwoch
-jueves                    -    Donnerstag
-viernes                   -    Freitag
-sábado                    -    Samstag
-domingo                   -    Sonntag
+jueves [m]                -    Donnerstag
+viernes [m]               -    Freitag
+sábado [m]                -    Samstag
+domingo [m]               -    Sonntag
 Los martes                -    Dienstags
 ayer                      -    gestern
 hoy                       -    heute
 mañana                    -    morgen
+año [m]                   -    Jahr
+años [m]                  -    Jahre
+noche [f]                 -    Nacht
+día [m]                   -    Tag
+vez [f]                   -    mal
+una vez                   -    ein mal
+momento [m]               -    Moment
+hora [f]                  -    Stunde, Uhrzeit
+minuto [m]                -    Minute
+tarde [f]                 -    Nachmittag
+semana [f]                -    Woche
+mes [m]                   -    Monat
+meses                     -    Monate
+Por el momento            -    derzeit, Im Moment
+
+
 

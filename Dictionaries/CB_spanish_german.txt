@@ -803,7 +803,7 @@ me siento bien                        -    Ich fühle mich gut
 no me siento bien                     -    Ich fühle mich nicht gut
 enfermo                               -    krank
 estoy enfermo                         -    Ich bin krank
-doler                                 -    wehtun
+doler                                 -    wehtun, schmerzen
 donde le duele?                       -    Wo tut es weh?
 me duele aqui                         -    Es tut hier weh
 cabeza [f]                            -    Kopf
@@ -820,3 +820,33 @@ pie [m]                               -    Fuß
 boca [f]                              -    Mund
 nariz [f]                             -    Nase
 hombro [m]                            -    Schulter
+
+
+# 1.29 At the pharmacy or doctor
+dolor [m]                             -    Schmerz
+tengo dolor de cabeza                 -    Ich habe Kopfschmerzen
+tiene algo para                       -    Hast du etwas für?, Hast du etwas gegen?
+tienes algo para el dolor de cabeza   -    Hast du etwas gegen Kopfschmerzen?
+tos [f]                               -    Husten
+infección [f]                         -    Infektion
+sarpullido [m]                        -    Ausschlag
+diarrea [f]                           -    Durchfall
+tiene algo para la tos?               -    Hast du etwas gegen Husten?
+quemadura [f]                         -    Vebrennung
+quemadura de sol                      -    Sonnenbrand
+mareado                               -    schwindelig
+dormir                                -    schlafen
+respirar                              -    atmen
+pildora [f]                           -    Pille
+comprimido [m]                        -    Tablette
+Necesitas                             -    Du musst
+tomar                                 -    nehmen, trinken
+necesitas tomar esto                  -    Du musst dies nehmen
+crema [f]                             -    Creme
+poner                                 -    legen, stellen, hintun, setzen#
+necesitas poner esta crema            -    Du musst diese Creme hintun
+vez [f]                               -    mal
+cuantas vezes al dia?                 -    Wie oft am Tag?
+
+
+
