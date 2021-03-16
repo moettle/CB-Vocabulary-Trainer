@@ -849,4 +849,10 @@ vez [f]                               -    mal
 cuantas vezes al dia?                 -    Wie oft am Tag?
 
 
+# 1.30 At a UEFA Cup Final in Glasgow
+ganar                                 -    gewinnen
+venga                                 -    Los, Auf gehts
+árbitro [m]                           -    Schiedsrichter
+
+
 
