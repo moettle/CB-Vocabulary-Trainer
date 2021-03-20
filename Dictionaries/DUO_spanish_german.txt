@@ -330,6 +330,33 @@ semana [f]                -    Woche
 mes [m]                   -    Monat
 meses                     -    Monate
 Por el momento            -    derzeit, Im Moment
+enero                      -   Januar
+febrero                    -   Februar
+marzo                      -   März
+abril                      -   April
+mayo                       -   Mai
+junio                      -   Juni
+julio                      -   Juli
+agosto                     -   August
+septiembre                 -   September
+octubre                    -   Oktober
+noviembre                  -   November
+diciembre                  -   Dezember
+en julio                   -   Im Juli
+de enero a junio           -   Von Januar bis Juni
+desde                      -   seit
+desde el enero             -   Seit Januar
+hasta                      -   bis
+hasta cuando?              -   Bis wann?
+desde cuando?              -   Seit wann?
+invierno [m]               -   Winter
+primavera [f]              -   Frühling
+verano [m]                 -   Sommer
+otoño [m]                  -   Herbst
+fiesta [m]                 -   Feier
+temporada [m]              -   Saison
+estación [f]               -   Jahreszeit
+rato [m]                   -   Weile, Augenblick
 
 
 
