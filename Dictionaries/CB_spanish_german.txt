@@ -855,4 +855,23 @@ venga                                 -    Los, Auf gehts
 árbitro [m]                           -    Schiedsrichter
 
 
+# 1.31 On a flight to Spain
+donde esta?                           -    Wo ist?
+parada [f]                            -    Haltestelle
+parada de autobús                     -    Bushaltestelle
+donde esta parada de autobús?         -    Wo ist die Bushaltestelle?
+cerca                                 -    nahe
+lejos                                 -    weit, entfernt
+el hotel esta lejos de aqui?          -    Ist das Hotel weit entfernt von hier?
+estanco [m]                           -    Tabakgeschäft
+tarjeta [f]                           -    Karte
+tarjeta postal                        -    Postkarte
+sello [m]                             -    Briefmarke
+algo mas?                             -    Noch etwas?
+necesita algo más?                    -    Brauchen sie sonst noch etwas?
+gracias                               -    danke
+muchas gracias                        -    Vielen Dank
+de nada                               -    Gern geschehen, bitte
+
+
 
