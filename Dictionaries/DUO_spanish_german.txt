@@ -293,7 +293,7 @@ contra                    -    gegen
 durante                   -    während
 con                       -    mit
 hacia                     -    zu, in Richtung, nach
-a                         -    zu, nach
+a                         -    zu, nach, bis
 al                        -    zum, pro
 sin                       -    ohne
 bajo                      -    unter
@@ -301,6 +301,9 @@ acerca                    -    über
 cerca                     -    nahe
 según                     -    laut, gemäß, nach
 va                        -    er geht
+en el                     -    beim, zu dem
+de                        -    aus, von
+al dia                    -    pro Tag
 
 
 # Zeit

@@ -874,4 +874,13 @@ muchas gracias                        -    Vielen Dank
 de nada                               -    Gern geschehen, bitte
 
 
+# 1.32 Arriving in Spain
+media hora                            -    halbe Stunde
+es mas comodo y rapido                -    Es ist bequemer und schneller
+más                                   -    mehr
+menos                                 -    weniger
+más o menos                           -    mehr oder weniger, einigermaßen
+contento                              -    zufrieden, froh
+
+
 
