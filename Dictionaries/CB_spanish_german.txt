@@ -883,4 +883,18 @@ más o menos                           -    mehr oder weniger, einigermaßen
 contento                              -    zufrieden, froh
 
 
+# 1.33 Checking in to a hotel
+essa si                               -    das stimmt
+supplemento [m]                       -    Ergänzung
+bienvenidos                           -    willkommen
+estrella [f]                          -    Stern
+me puedendar?                         -    Können sie mir geben?
+verda                                 -    wahr
+usted se llama?                       -    Ist ihr Name?
+equivocado                            -    irrtümlich, falsch, verkehrt
+me he equivocado                      -    Ich habe einen Fehler gemacht, Ich habe mich geirrt
+preferir                              -    vorziehen
+es possible                           -    Es ist möglich
+ficha [f]                             -    Formular
+tercer piso                           -    dritter Stock, dritte Etage
 
