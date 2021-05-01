@@ -360,6 +360,54 @@ fiesta [m]                 -   Feier
 temporada [m]              -   Saison
 estación [f]               -   Jahreszeit
 rato [m]                   -   Weile, Augenblick
+en un momento              -   In einem Moment
+tarde [f]                  -   spät, Nachmittag, Abend
+
+
+# Haushalt
+silla [f]                  -   Stuhl
+chuchara [f]               -   Löffel
+cama [f]                   -   Bett
+vaso [m]                   -   Glas
+ropa de cama               -   Bettbezug
+mesa [f]                   -   Tisch
+cuchillo [m]               -   Messer
+plato [m]                  -   Teller
+cuna [f]                   -   Gitterbett
+pascina [f]                -   Pool, Schwimmbecken
+ventana [f]                -   Fenster
+taza [f]                   -   Tasse
+telefono                   -   Telefon
+television                 -   Fernseher
+espejo [m]                 -   Spiegel
+puerta [f]                 -   Türe
+esponja [f]                -   Schwamm
+esritorio [m]              -   Schreibtisch
+lampara [f]                -   Lampe
+sofa [f]                   -   Sofa, Couch
+sarten [f]                 -   Pfanne
+horno [m]                  -   Ofen, Backofen
+piso [m]                   -   Fußboden
+pared [f]                  -   Wand
+sotano [m]                 -   Keller
+escalera [f]               -   Leiter, Treppe
+dormitorio [m]             -   Schlafzimmer
+techo [m]                  -   Dach
+baño [m]                   -   Toillette, Klo
+cepillo                    -   Bürste
+secaroda [f]               -   Trockner
+lavadora [f]               -   Waschmaschine
+limpiar                    -   putzen
+refrigerador [m]           -   Kühlschrank
+limpia                     -   sauber
+habitacion [m]             -   Raum
+cartera [f]                -   Geldbeutel, Brieftasche
+paraguas [m]               -   Schirm, Regenschirm
+rasuradora [f]             -   Rasierer
+sabana [f]                 -   Bettlaken
+jabon [m]                  -   Seife
+
+
 
 
 
