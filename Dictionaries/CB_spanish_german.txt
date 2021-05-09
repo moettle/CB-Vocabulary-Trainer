@@ -898,3 +898,17 @@ es possible                           -    Es ist möglich
 ficha [f]                             -    Formular
 tercer piso                           -    dritter Stock, dritte Etage
 
+
+# 1.34 Ordering Breakfast
+terraza [f]                           -    Terrasse
+desayunar                             -    frühstücken
+quiere desayunar?                     -    Möchten sie frühstücken?
+somos                                 -    wir sind
+dentro                                -    drinnen, innen
+que prefieren?                        -    Was bevorzugen sie?
+mi madre quisiera te                  -    Meine Mutter möchte Tee
+Que aproveche                         -    Guten Appetit
+periodista [m]                        -    Journalist
+
+
+
