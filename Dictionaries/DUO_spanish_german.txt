@@ -420,3 +420,18 @@ pequeño                    -   klein
 
 
 
+# Berufe
+policía [m]                -   Polizist
+policía [f]                -   Polizei, Polizistin
+estudiante [m]             -   Schüler, Student
+doctor [m]                 -   Doktor
+doctora [f]                -   Doktorin
+rey [m]                    -   König
+reina [f]                  -   Königin
+jefa [f]                   -   Chefin, Leiterin, Vorgesetzte
+jefe [m]                   -   Chef, Leiter, Vorgesetzter
+secretatrio [m]            -   Sekretär
+maestro [m]                -   Lehrer, Meister
+maestra [m]                -   Lehrerin
+
+
