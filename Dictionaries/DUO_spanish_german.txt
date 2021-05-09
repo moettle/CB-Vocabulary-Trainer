@@ -408,6 +408,15 @@ sabana [f]                 -   Bettlaken
 jabon [m]                  -   Seife
 
 
+# Größen
+gran                       -   groß
+alto                       -   groß
+tamaño [m]                 -   Größe
+enorme                     -   enorm, riesig
+largo                      -   lange
+corto                      -   kurz
+bajo                       -   klein, niedrig, tief
+pequeño                    -   klein
 
 
 
