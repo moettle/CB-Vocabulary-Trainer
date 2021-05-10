@@ -433,5 +433,25 @@ jefe [m]                   -   Chef, Leiter, Vorgesetzter
 secretatrio [m]            -   Sekretär
 maestro [m]                -   Lehrer, Meister
 maestra [m]                -   Lehrerin
+soldado [m]                -   Soldat
+juez [m]                   -   Richter
+profesor [m]               -   Professor
+guardia [m]                -   Wächter
+poeta [m]                  -   Poet, Dichter
+autor [m]                  -   Autor, Verfasser, Urheber
+empresario [m]             -   Unternehmer
+capitan [m]                -   Der Kapitän
+empleado [m]               -   Angestellter
+periodista [m]             -   Journalist
+actor [m]                  -   Schauspieler
+abogado [m]                -   Rechtsanwalt
+especialista [m]           -   Spezialist, Fachmann
+pintor [m]                 -   Maler
+especialidad               -   Spezialität
+duena [f]                  -   Inhaberin
+
+
+
+
 
 
