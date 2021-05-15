@@ -449,6 +449,22 @@ especialista [m]           -   Spezialist, Fachmann
 pintor [m]                 -   Maler
 especialidad               -   Spezialität
 duena [f]                  -   Inhaberin
+granjero [m]               -   Bauer, Farmer, Landwirt
+profesion [m]              -   Beruf
+panadero [m]               -   Bäckerin
+carpintera [f]             -   Schreinering, Tischlerin
+trabajo [m]                -   Arbeit
+sacerdote [m]              -   Pfarrer, Priester
+ingeniero [m]              -   Ingenieur
+cocinero [m]               -   Koch
+mesero [m]                 -   Kellner
+cajero [m]                 -   Kassierer
+conductor [m]              -   Fahrer
+enfermera [f]              -   Krankenschwester
+enfermero [m]              -   Krankenpfleger
+atleta [m]                 -   Athlet
+
+
 
 
 
