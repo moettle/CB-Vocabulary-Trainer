@@ -911,4 +911,21 @@ Que aproveche                         -    Guten Appetit
 periodista [m]                        -    Journalist
 
 
+# 1.35 At the tourist information office
+mapa [m]                              -    Karte
+plano [m]                             -    Karte
+necesitar                             -    brauchen
+necesitamos                           -    Wir brauchen
+información                           -    Information
+al guna                               -    etwas
+al guna la información                -    ein paar Informationen
+sobre                                 -    über
+particular                            -    persönlich
+en particular                         -    insbesondere
+enseñar                               -    zeigen
+hay                                   -    es gibt
+cerrado                               -    geschlossen
+no importa                            -    egal
+
+
 
