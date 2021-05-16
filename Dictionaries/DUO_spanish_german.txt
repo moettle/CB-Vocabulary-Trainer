@@ -465,8 +465,48 @@ enfermero [m]              -   Krankenpfleger
 atleta [m]                 -   Athlet
 
 
-
-
+# Adjektive
+joven                      -   jung
+jóvenes [pl]               -   jung
+blingüe                    -   zweisprachig
+mismo                      -   gleich
+mismas [pl]                -   gleich, gleichen, gleiche
+bonito                     -   schön
+bueno                      -   gut
+viejo                      -   alt
+mayor                      -   älter, größer
+primero                    -   erste
+primeras [pl]              -   ersten
+nuevo                      -   neu
+mejor                      -   besser
+mejores                    -   besten
+útil                       -   nützlich
+menor                      -   kleiner
+feo                        -   hässlich
+tengo una hermana menor    -   Ich habe eine kleine Schwester
+importante                 -   wichtig
+posible                    -   möglich
+imposible                  -   unmöglich
+positivo                   -   positiv
+negativo                   -   negativ
+real                       -   echt, wirklich
+cierto                     -   wahr
+último                     -   letzter, letzte
+final                      -   letzter, Ender, Finale, Schluss
+personal                   -   persönlich
+público                    -   öffentlich
+diferente                  -   unterschiedlich
+necesario                  -   notwendig
+dura                       -   hart 
+solo                       -   allein
+popular                    -   beliebt
+local                      -   örtlich, lokal
+principal                  -   Haupt-, hauptsächlich, wesentlich
+capaz                      -   fähig
+único                      -   einzig
+seguro                     -   sicher
+fuerte                     -   stark
+distinto                   -   verschieden
 
 
 
