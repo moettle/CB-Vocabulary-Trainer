@@ -49,7 +49,7 @@ def pretty_print_dict():
         print(k + padding + " -     " +  training_dict[k])
 
 def clean_word(word):
-    replace_list = [" ", "[m]", "[f]", "?", "!", ".", ","]
+    replace_list = [" ", "[m]", "[f]", "[pl]", "?", "!", ".", ","]
     word = word.lower()
     for r in replace_list:
         word = word.replace(r, "")
