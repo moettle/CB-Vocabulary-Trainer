@@ -507,7 +507,31 @@ capaz                      -   fähig
 seguro                     -   sicher
 fuerte                     -   stark
 distinto                   -   verschieden
-
+simple                     -   einfach
+siguiente                  -   nächste, folgend, nachfolgend, anschließend
+propio                     -   persönlich, eigen, selbst
+peor                       -   schlimmer, schlechter
+suficiente                 -   ausreichend, genügend, genug
+peor que ayer              -   schlechter als gestern
+familiar                   -   familiär, vertraut
+responsable                -   verantwortlich, verantwortungsvoll
+claro                      -   klar
+pobre                      -   arm
+mal                        -   schlecht
+normal                     -   normal
+próximo                    -   nächster
+histórico                  -   historisch
+justo                      -   gerecht, fair
+rico                       -   reich
+reciente                   -   neu
+plano                      -   flach
+natural                    -   natürlich
+juntos                     -   gemeinsam
+caro                       -   teuer
+pasado                     -   vergangen
+rápido                     -   schnell
+despacio                   -   langsam
+barato                     -   billig
 
 
 
