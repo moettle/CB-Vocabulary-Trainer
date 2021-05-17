@@ -928,4 +928,24 @@ cerrado                               -    geschlossen
 no importa                            -    egal
 
 
+# 1.36 Shopping
+estanco                               -    Tabakladen
+zapato                                -    Schuh
+tarjeta postal                        -    Postkarte
+al lado de                            -    neben an, neben den, neben
+revista [f]                           -    Zeitschrift
+sobre [m]                             -    Briefumschlag
+todo                                  -    alles
+sello [m]                             -    Briefmarke
+cuatro con treinta euros              -    vier euro dreißig
+que tengan buen día                   -    Haben sie einen guten Tag
+para donde                            -    wohin, für wohin
+solo estamos mirando                  -    wir schauen nur
+probarse                              -    anprobieren
+probarme                              -    anprobieren
+voy a ver                             -    ich werde sehen
+cuanto valen?                         -    wie viel kosten sie?
+cuanto cuestan?                       -    wie viel kosten sie?
+me los llevo                          -    Ich werde sie nehmen
+
 
