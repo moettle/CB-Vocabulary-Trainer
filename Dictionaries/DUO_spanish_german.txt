@@ -534,4 +534,17 @@ despacio                   -   langsam
 barato                     -   billig
 
 
+V: Präs. 2
+jugar                      -   spielen
+juega                      -   er spielt, sie spiel
+encontrar                  -   finden, etw. finden
+encuentra                  -   er findet, sie findet
+saber                      -   wissen
+seguir                     -   folgen, fortsetzen, weitermachen
+lleva                      -   tragen
+llevo                      -   ich trage
+quedar                     -   bleiben, sich treffen
+saber                      -   schmecken
+
+
 
