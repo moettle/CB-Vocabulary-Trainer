@@ -949,3 +949,16 @@ cuanto cuestan?                       -    wie viel kosten sie?
 me los llevo                          -    Ich werde sie nehmen
 
 
+1.37 Public Transport
+todo bien?                            -    Alles gut?
+digame                                -    Sag mir
+algun                                 -    etwas
+nada                                  -    nichts
+coche                                 -    Auto
+horario [m]                           -    Fahrplan
+quizás                                -    vielleicht
+enseñar                               -    zeigen
+girar                                 -    abbiegen
+
+
+
