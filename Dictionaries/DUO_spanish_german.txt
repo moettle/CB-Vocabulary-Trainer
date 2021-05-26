@@ -545,6 +545,18 @@ lleva                      -   tragen
 llevo                      -   ich trage
 quedar                     -   bleiben, sich treffen
 saber                      -   schmecken
+estudiar                   -   lernen
+probar                     -   probieren
+pesar                      -   wiegen
+mostrar                    -   zeigen
+muestra                    -   sie zeigt, er zeigt
+bajar                      -   absteigen
+venir                      -   kommen
+mirar                      -   sehen, schauen, anschauen
+mira                       -   schau
+ayudar                     -   helfen
+ayudamos                   -   wir helfen
+
 
 
 
