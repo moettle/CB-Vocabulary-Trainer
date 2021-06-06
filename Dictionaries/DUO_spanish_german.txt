@@ -534,7 +534,7 @@ despacio                   -   langsam
 barato                     -   billig
 
 
-V: Präs. 2
+# V: Präs. 2
 jugar                      -   spielen
 juega                      -   er spielt, sie spiel
 encontrar                  -   finden, etw. finden
@@ -556,7 +556,28 @@ mirar                      -   sehen, schauen, anschauen
 mira                       -   schau
 ayudar                     -   helfen
 ayudamos                   -   wir helfen
-
+cerrar                     -   schließen
+cierro                     -   ich schließe
+recordar                   -   erinnern
+buscar                     -   suchen
+aparecer                   -   auftauchen, erscheinen
+soñar                      -   träumen
+sueña                      -   er träumt, sie träumt
+presentar                  -   präsentieren
+visitar                    -   besuchen
+volver                     -   zurückkehren
+pensar                     -   denken
+pienso                     -   ich denke
+respetar                   -   respektieren
+tomar                      -   nehmen, trinken
+aceptar                    -   akzeptieren, zustimmen, annehmen
+acabar                     -   enden
+parecer                    -   aussehen
+comenzar                   -   beginnen, anfangen
+servir                     -   dienen, nützlich sein, nützen
+conocer                    -   kennen
+por                        -   durch 
+caber                      -   passen
 
 
 
