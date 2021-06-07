@@ -578,6 +578,23 @@ servir                     -   dienen, nützlich sein, nützen
 conocer                    -   kennen
 por                        -   durch 
 caber                      -   passen
+incluir                    -   einschließen
+incluye                    -   er schließt mit ein
+sentir                     -   fühlen
+importar                   -   importieren
+firmar                     -   unterschreiben, signieren
+culpar                     -   beschuldigen
+entrar                     -   hereinkommen, betreten
+entregar                   -   liefern
+requerir                   -   benötigen, brauchen
+empezar                    -   beginnen
+llegar                     -   ankommen
+abrir                      -   öffnen
+abro                       -   ich öffne
+decir                      -   sagen
+depender de                -   abhängen von
+
+
 
 
 
