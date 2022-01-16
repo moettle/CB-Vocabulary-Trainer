@@ -834,6 +834,7 @@ diarrea [f]                           -    Durchfall
 tiene algo para la tos?               -    Hast du etwas gegen Husten?
 quemadura [f]                         -    Vebrennung
 quemadura de sol                      -    Sonnenbrand
+quemar                                -    brennen
 mareado                               -    schwindelig
 dormir                                -    schlafen
 respirar                              -    atmen
@@ -847,6 +848,10 @@ poner                                 -    legen, stellen, hintun, setzen#
 necesitas poner esta crema            -    Du musst diese Creme hintun
 vez [f]                               -    mal
 cuantas vezes al dia?                 -    Wie oft am Tag?
+antes                                 -    vorher, davor, zuvor
+antes de comer                        -    vor dem essen 
+después                               -    danach
+después de comer                      -    nach dem essen
 
 
 # 1.30 At a UEFA Cup Final in Glasgow
@@ -949,7 +954,7 @@ cuanto cuestan?                       -    wie viel kosten sie?
 me los llevo                          -    Ich werde sie nehmen
 
 
-1.37 Public Transport
+# 1.37 Public Transport
 todo bien?                            -    Alles gut?
 digame                                -    Sag mir
 algun                                 -    etwas
