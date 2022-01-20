@@ -34,6 +34,9 @@ def read_dictionaries():
             if parsed != None:
                 training_dict[parsed[0]] = parsed[1]
 
+    print("Dictionaries loaded")
+    print("Total number of words: " + str(len(training_dict)))
+
 
 def pretty_print_dict():
     global training_dict
