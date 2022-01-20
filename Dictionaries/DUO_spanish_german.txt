@@ -120,8 +120,6 @@ vegetariana [f]           -    Vegetarierin
 perro [m]                 -    Hund
 perros                    -    Hunde
 gato [m]                  -    Katze 
-gate [w]                  -    Katze
-gatas [w]                 -    Katzen 
 caballo [m]               -    Pferd
 pato [m]                  -    Ente
 tortuga [f]               -    Schildkröte
@@ -146,7 +144,7 @@ los libros                -    Die Bücher
 las cartas                -    Die Briefe
 los pescados              -    Die Fische
 las llaves                -    Die Schlüssel
-las manzanas              -    Äpfel
+las manzanas              -    Die Äpfel
 las palabras              -    Die Worte
 los diarios               -    Die Zeitungen
 las fresas                -    Die Erdbeeren
