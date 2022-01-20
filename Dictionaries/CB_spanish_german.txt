@@ -844,7 +844,7 @@ Necesitas                             -    Du musst
 tomar                                 -    nehmen, trinken
 necesitas tomar esto                  -    Du musst dies nehmen
 crema [f]                             -    Creme
-poner                                 -    legen, stellen, hintun, setzen#
+poner                                 -    legen, stellen, hintun, setzen
 necesitas poner esta crema            -    Du musst diese Creme hintun
 vez [f]                               -    mal
 cuantas vezes al dia?                 -    Wie oft am Tag?
@@ -858,6 +858,20 @@ después de comer                      -    nach dem essen
 ganar                                 -    gewinnen
 venga                                 -    Los, Auf gehts
 árbitro [m]                           -    Schiedsrichter
+gente [f]                             -    Leute
+lluvia [f]                            -    Regen
+amar                                  -    lieben
+amable                                -    nett, liebenswürdig, höflich, freundlich, zuvorkommend
+sin duda                              -    zweifellos
+deporte [m]                           -    Sport
+equipo [m]                            -    Mannschaft
+mas importantes                       -    am wichtigstens
+suponer                               -    annehmen
+además de                             -    zusätzlich zu
+partido [m]                           -    Spiel, Partei, Bezirk
+parecido                              -    ähnlich
+jugar                                 -    spielen
+lleno                                 -    Spiel
 
 
 # 1.31 On a flight to Spain
