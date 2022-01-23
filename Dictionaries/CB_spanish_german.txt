@@ -895,8 +895,21 @@ de nada                               -    Gern geschehen, bitte
 
 
 # 1.32 Arriving in Spain
+// Fast jedes Adjektiv im Spanischen kann "mas" davor haben. Das ist dann eine Steigerung/Komparativ des Adjektivs
+allí                                  -    dort, da
+hay un autobus que va allí?           -    Gibt es einen Bus, der dort hin fährt?
+salir                                 -    ausgehen, hinausgehen, abreisen
+saliendo                              -    herauskommen, herauskommend
+tardar                                -    dauern, Zeit brauchen
+Cuánto va a tardar?                   -    Wie lange wird es dauern?
+van a tardar quince minutos           -    Sie werden brauchen 15 Minuten brauchen
 media hora                            -    halbe Stunde
+costar                                -    kosten
+cómodo                                -    bequem
+rápido                                -    schnell
 es mas comodo y rapido                -    Es ist bequemer und schneller
+aeropuerto [m]                        -    Flughafen
+taxi [m]                              -    Taxi
 más                                   -    mehr
 menos                                 -    weniger
 más o menos                           -    mehr oder weniger, einigermaßen
