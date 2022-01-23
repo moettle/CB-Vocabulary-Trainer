@@ -876,6 +876,7 @@ lleno                                 -    Spiel
 
 # 1.31 On a flight to Spain
 donde esta?                           -    Wo ist?
+parar                                 -    stoppen
 parada [f]                            -    Haltestelle
 parada de autobús                     -    Bushaltestelle
 donde esta parada de autobús?         -    Wo ist die Bushaltestelle?
