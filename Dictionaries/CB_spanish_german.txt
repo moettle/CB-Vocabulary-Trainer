@@ -918,30 +918,43 @@ contento                              -    zufrieden, froh
 
 # 1.33 Checking in to a hotel
 essa si                               -    das stimmt
-supplemento [m]                       -    Ergänzung
 bienvenidos                           -    willkommen
 estrella [f]                          -    Stern
 me puedendar?                         -    Können sie mir geben?
+puedendarme?                          -    Können sie mir geben?
 verda                                 -    wahr
 usted se llama?                       -    Ist ihr Name?
 equivocado                            -    irrtümlich, falsch, verkehrt
 me he equivocado                      -    Ich habe einen Fehler gemacht, Ich habe mich geirrt
 preferir                              -    vorziehen
+suplemento [m]                        -    Ergänzung, Zuschlag, Nachtrag
+hay que pagar un suplemento           -    Sie müssen einen Zuschlag zahlen
+entonces                              -    dann, also
 es possible                           -    Es ist möglich
 ficha [f]                             -    Formular
+piso [m]                              -    Stock, Etage
 tercer piso                           -    dritter Stock, dritte Etage
+ascensor [m]                          -    Aufzug
 
 
 # 1.34 Ordering Breakfast
+camarero [m]                          -    Kellner, Ober
 terraza [f]                           -    Terrasse
 desayunar                             -    frühstücken
 quiere desayunar?                     -    Möchten sie frühstücken?
 somos                                 -    wir sind
+fuera                                 -    draußen
 dentro                                -    drinnen, innen
+preferir                              -    bevorzugen
 que prefieren?                        -    Was bevorzugen sie?
 mi madre quisiera te                  -    Meine Mutter möchte Tee
 Que aproveche                         -    Guten Appetit
 periodista [m]                        -    Journalist
+viaje [m]                             -    Reise
+viaje de negocios                     -    Geschäftsreise
+suponer                               -    annehmen
+supongo                               -    ich nehme an, ich vermute
+pan tostado                           -    getoatetes Brot
 
 
 # 1.35 At the tourist information office
