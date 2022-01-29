@@ -958,20 +958,43 @@ pan tostado                           -    getoatetes Brot
 
 
 # 1.35 At the tourist information office
+// me gusta ... literally -> to me pleases ...
+// te gusta -> pleases you
+// le gusta  -> you like (formal) or he/she likes
+
 mapa [m]                              -    Karte
 plano [m]                             -    Karte
-necesitar                             -    brauchen
+ya                                    -    schon, bereits
+necesitar                             -    brauchen, benötigen
 necesitamos                           -    Wir brauchen
 información                           -    Information
 al guna                               -    etwas
 al guna la información                -    ein paar Informationen
 sobre                                 -    über
-particular                            -    persönlich
-en particular                         -    insbesondere
 enseñar                               -    zeigen
+interés [m]                           -    Interesse
+lado [m]                              -    Seite
+al lado                               -    neben, daneben, nebenan
 hay                                   -    es gibt
+artesanía [f]                         -    Handwerk, Kunsthandwerk
+le                                    -    ihm, ihr, ihn, ihnen
+mar [m]                               -    Meer
 cerrado                               -    geschlossen
+abierto                               -    offen
+a decir verdad                        -    offen gesagt
 no importa                            -    egal
+esta abierto hoy?                     -    Ist es heute offen?
+entrada [f]                           -    Eingang, Eintrittskarte, Vorspeise
+gratuito                              -    kostenlos, gratis
+donde estan los mejores restaurantes? -    Wo sind die besten Restaurants?
+zona [f]                              -    Zone, Gebiet, Gegend, Region, Bereich
+recomendar                            -    empfehlen, vorschlagen
+particular                            -    persönlich, besonders
+en particular                         -    insbesondere
+guía [m]                              -    Führer, Reiseleiter, Guide
+practicar                             -    üben
+región [f]                            -    Region
+depender de                           -    abhängen von
 
 
 # 1.36 Shopping
