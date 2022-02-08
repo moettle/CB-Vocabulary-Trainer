@@ -999,8 +999,8 @@ depender de                           -    abhängen von
 
 # 1.36 Shopping
 estanco                               -    Tabakladen
-zapato                                -    Schuh
 tarjeta postal                        -    Postkarte
+allí                                  -    dort
 al lado de                            -    neben an, neben den, neben
 revista [f]                           -    Zeitschrift
 sobre [m]                             -    Briefumschlag
@@ -1010,24 +1010,37 @@ cuatro con treinta euros              -    vier euro dreißig
 que tengan buen día                   -    Haben sie einen guten Tag
 para donde                            -    wohin, für wohin
 solo estamos mirando                  -    wir schauen nur
+zapato                                -    Schuh
 probarse                              -    anprobieren
 probarme                              -    anprobieren
+me lo dicen                           -    sagen sie es mir
+a ver                                 -    mal sehen
 voy a ver                             -    ich werde sehen
+agotado                               -    erschöpft
+valer                                 -    kosten
 cuanto valen?                         -    wie viel kosten sie?
 cuanto cuestan?                       -    wie viel kosten sie?
 me los llevo                          -    Ich werde sie nehmen
+caja [f]                              -    Kasse, Kiste, Schachtel
 
 
 # 1.37 Public Transport
+// Doppelverneinungen sind immer noch Verneinungen im Gegensatz zur deutschen Doppelverneinungen
 todo bien?                            -    Alles gut?
+todo esta muy bien                    -    Es ist alles gut
 digame                                -    Sag mir
+necesito un poco de informacion       -    Ich brauche ein paar Informationen
 algun                                 -    etwas
 nada                                  -    nichts
-coche                                 -    Auto
+no hay nada                           -    es gibt nichts, es ist nichts
+coche [m]                             -    Auto
+esta a cinco minutos                  -    es braucht fünf Minuten, es sind fünf Minuten
 horario [m]                           -    Fahrplan
-quizás                                -    vielleicht
+quizá                                 -    vielleicht
 enseñar                               -    zeigen
 girar                                 -    abbiegen
-
-
-
+abierto                               -    offen
+Que hora es?                          -    Wie viel Uhr ist es?
+cinco minutos caminando               -    fünf Minuten zu Fuß, fünf Minuten laufend
+saliendo del hotel                    -    das Hotel verlassend, aus dem Hotel gehend
+no hay de que                         -    Kein Problem, Sehr gerne, Nichts zu danken
