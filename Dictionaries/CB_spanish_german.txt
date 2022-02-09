@@ -1044,3 +1044,23 @@ Que hora es?                          -    Wie viel Uhr ist es?
 cinco minutos caminando               -    fünf Minuten zu Fuß, fünf Minuten laufend
 saliendo del hotel                    -    das Hotel verlassend, aus dem Hotel gehend
 no hay de que                         -    Kein Problem, Sehr gerne, Nichts zu danken
+
+
+# 1.38 Seeking help at the pharmacy
+me amiga no se siente bien            -    Meiner Freundin geht es nicht gut, Meiner Freundi fühlt sich nicht gut
+no me siento bien                     -    Ich fühle mich nicht gut
+mareado                               -    schwindelig, seekrank, benommen
+estoy mareado                         -    Mir ist übel
+cara                                  -    Gesicht
+ya veo                                -    Ich sehe schon
+comido                                -    gegessen
+comimos                               -    wir aßen
+pulpo [m]                             -    Tintenfisch, Oktopus
+reacción [f]                          -    Reaktion
+embarazada                            -    schwanger
+grave                                 -    ernst, schwer, schlimm
+desde                                 -    seit
+hace                                  -    vor
+desde hace                            -    seit
+desde hace tres semanas               -    seit drei Wochen
+estudio espanol desde hace dos anos   -    Ich studiere seit 2 Jahren spanisch, Ich lerne seit 2 Jahren spanisch
