@@ -1064,3 +1064,26 @@ hace                                  -    vor
 desde hace                            -    seit
 desde hace tres semanas               -    seit drei Wochen
 estudio espanol desde hace dos anos   -    Ich studiere seit 2 Jahren spanisch, Ich lerne seit 2 Jahren spanisch
+
+
+# 1.39 Making progress in Spanish
+// la eliges -> bezieht sich auf asignatura, was weiblich ist. Deswegen la statt lo
+dime                                  -    sag mir
+norte [m]                             -    Norden
+este [m]                              -    Osten
+sur [m]                               -    Süden
+oeste [m]                             -    Westen
+ciencia [f]                           -    Wissenschaft
+ciencias                              -    Wissenschaften
+ciencias empresariales                -    Betriebswirtschaft, Marketing, Ökonomie
+carrera [f]                           -    Karriere
+muy poco                              -    sehr wenig
+elegir                                -    wählen
+lo                                    -    es
+la                                    -    es
+si la eliges                          -    falls du es wählst
+lo hablo                              -    ich spreche es
+asignatura [f]                        -    Fach
+colgeio [m]                           -    Schule
+instituto [m]                         -    Gymnasium
+
