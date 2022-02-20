@@ -1087,3 +1087,22 @@ asignatura [f]                        -    Fach
 colgeio [m]                           -    Schule
 instituto [m]                         -    Gymnasium
 
+
+# 1.40 Learning Languages
+idioma [f]                            -    Sprache
+Que idiomas hablas?                   -    Welche Sprachen sprichst du?
+asi que                               -    so, also, therefore
+un poquito                            -    ein bisschen, ein wenig
+estudiaste                            -    du lerntest, du hast gelernt
+obligatorio                           -    zwingend, verpflichtend, obligatorisch, verbindlich
+edad [f]                              -    Alter
+empezar                               -    beginnen
+a que edad                            -    in welchem ​​Alter
+era                                   -    ich war
+cuando yo era pequeno                 -    als ich klein war
+entendernos                           -    sich verstehen, uns verstehen
+otros idiomas                         -    andere Sprachen 
+especialmente                         -    besonders
+
+
+
