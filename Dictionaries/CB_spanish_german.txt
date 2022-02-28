@@ -1123,5 +1123,23 @@ charlar                               -    plaudern, reden
 platicar                              -    plaudern, sich unterhalten
 
 
-
-
+# 2.02 More on the present tense
+// la una vs las dos
+desayunar                             -    frühstücken
+a las siete                           -    um sieben, um sieben uhr
+a que hora desayunas?                 -    Wann frühstückst du?, Um wie viel Uhr frühstückst du?
+desayuno a las ocho                   -    Ich frühstücke um acht
+a las siete y media                   -    um 7:30, um halb acht
+salgo de la casa a las ocho           -    Ich verlasse das Haus um acht, Ich gehe um acht aus dem Haus
+llego al trabajo a las nueve          -    Ich komme um neun zur Arbeit
+llegar                                -    ankommen, kommen, erreichen
+llegar tarde                          -    sich verspäten, unpünklich sein
+como a la una                         -    ich esse um eins
+a que hora comes?                     -    Um wie viel Uhr isst du?, Wann isst du?
+volver                                -    zurückkommen, zurückkehren, wiederkehren
+a que hora vuelves a casa?            -    Wann kommst du nach hause?
+cansado                               -    müde
+descansar                             -    ausruhen, sich ausruhen
+luego                                 -    später, dann, nachdem, nachher, folglich, also
+cenar                                 -    zu Abend essen
+a eso de                              -    ungefähr
