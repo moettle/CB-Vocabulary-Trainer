@@ -1105,4 +1105,23 @@ otros idiomas                         -    andere Sprachen
 especialmente                         -    besonders
 
 
+# 2.01 The present tense
+// https://studyspanish.com/verbs/lessons/pireg
+// Regular verbs:
+// -ar verbs: o, as, a, amos, áis, an
+// -er verbs: o, es, e, emos, éis, en
+// -ir verbs: o, es, e, imos, ís,  en
+
+fin [m]                               -    Ende
+fin de semana                         -    Wochenende
+hace sol                              -    es ist sonnig
+durante el fin de semana              -    während des Wochendes, am Wochende
+pasar                                 -    passieren, verbringen, vergehen, eintreten
+paso tiempo con mi familia            -    Ich verbringe Zeit mit meiner Familie
+hablo con mis amigos                  -    Ich spreche mit meinen Freunden
+charlar                               -    plaudern, reden
+platicar                              -    plaudern, sich unterhalten
+
+
+
 
