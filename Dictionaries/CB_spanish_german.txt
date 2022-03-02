@@ -1143,3 +1143,33 @@ descansar                             -    ausruhen, sich ausruhen
 luego                                 -    später, dann, nachdem, nachher, folglich, also
 cenar                                 -    zu Abend essen
 a eso de                              -    ungefähr
+
+
+# 2.03 Reflexive verbs
+// llamar: reflexive verbs (ich frage mich)
+// combined with words like me, te, se
+// me llamo
+
+me ducho                              -    ich dusche, ich dusche mich
+me baño                               -    ich bade, ich bade mich
+despertar                             -    aufwecken
+me despierto                          -    ich wache auf, ich wecke mich auf
+me despierto a las seis               -    ich wache um 6 auf
+levantar                              -    hochheben, aufheben, heben
+me levanto                            -    ich stehe auf
+afeitar                               -    rasieren
+me afaito                             -    ich rasiere mich
+maquillarse                           -    schminken
+vestirse                              -    sich anziehen, sich kleiden
+me visto                              -    ich ziehe mich an 
+desnudo                               -    nackt
+desnudarse                            -    sich ausziehen
+me desnudo                            -    ich ziehe mich aus
+me duermo                             -    ich schlafe
+te levantas                           -    du stehst auf
+a que hora te levantas?               -    Um wie viel Uhr stehst du auf?
+a las siete y cuarto                  -    7:15, viertel nach sieben
+a las ocho menos cuarto               -    7:45, vierte vor acht
+
+
+
