@@ -1172,4 +1172,29 @@ a las siete y cuarto                  -    7:15, viertel nach sieben
 a las ocho menos cuarto               -    7:45, vierte vor acht
 
 
+# 2.04 Making arrangements
+cenar                                 -    zu Abend essen
+ir                                    -    gehen
+voy                                   -    ich gehe
+vas                                   -    du gehst
+va                                    -    sie geht, er geht
+vamos                                 -    wir gehen
+vais                                  -    ihr geht
+van                                   -    sie gehen
+vamos a empezar                       -    lasst uns beginnen
+hacer                                 -    machen, tun, unternehmen
+hago                                  -    ich mache
+haces                                 -    du machst
+hace                                  -    sie macht, er macht
+hacemos                               -    wir machen
+haceis                                -    ihr macht
+hacen                                 -    sie machen
+que hacemos?                          -    Was machen wir?
+que hacemos mañana?                   -    Was machen wir morgen?
+que hacemos mañana por la mañana?     -    Was machen wir morgen früh?
+esta noche                            -    heute Abend
+que hacemos esta noche                -    Was machen wir heute Abend?
+esta tarde                            -    heute Nachmittag
+vamos a un restaurante                -    Wir gehen in ein Restaurant
+cenamos juntos                        -    Wir essen zusammen zu Abend
 
