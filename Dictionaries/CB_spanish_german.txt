@@ -716,7 +716,6 @@ seguro                                -    sicher
 no estoy seguro                       -    Ich bin mir nicht sicher 
 tarde                                 -    spät
 más tarde                             -    später
-volver                                -    zurückkommen
 vuelvo más tarde                      -    Ich komme später wieder
 lo                                    -    es
 me lo llevo                           -    Ich nehme es 
@@ -1198,3 +1197,33 @@ esta tarde                            -    heute Nachmittag
 vamos a un restaurante                -    Wir gehen in ein Restaurant
 cenamos juntos                        -    Wir essen zusammen zu Abend
 
+
+# 2.05 Making more arrangements
+juerga [f]                            -    Rummel, Gaudi, Sauferei
+fiesta [f]                            -    Feier, Party
+pachanga [f]                          -    Fest
+vamos de juerga                       -    Wir gehen feiern
+vamos de copas                        -    Wir gehen feiern
+vamos de fiesta                       -    Wir gehen feiern
+vamos de pachanga                     -    Wir gehen feiern
+salimos                               -    wir gehen aus
+salimos de pachanga                   -    wir gehen feiern
+damos una fiesta                      -    wir veranstalten eine Feier, wir schmeißen eine feier
+dar                                   -    geben
+doy                                   -    ich gebe
+das                                   -    du gibst
+da                                    -    sie gibt, er gibt, es gibt
+damos                                 -    wir geben
+dais                                  -    ihr gebt
+dan                                   -    sie geben
+volver                                -    zurückkommen, zurückkehren, wiederkehren
+dar una vuelta                        -    spazieren gehen
+quedar                                -    bleiben, passen, sich verabreden, übrigbleiben
+quedamos en la plaza                  -    Wir verabreden uns auf dem Platz
+no lo se                              -    ich weiß nicht
+no se                                 -    ich weiß nicht
+cansado                               -    müde
+a que hora quedamos?                  -    Wann sollen wir uns treffen?
+te parece bien?                       -    Passt das für dich?
+donde quedamos?                       -    Wo sollen wir uns treffen?
+hasta las nueve                       -    Bis um 9 Uhr, Bis um 9
