@@ -1227,3 +1227,44 @@ a que hora quedamos?                  -    Wann sollen wir uns treffen?
 te parece bien?                       -    Passt das für dich?
 donde quedamos?                       -    Wo sollen wir uns treffen?
 hasta las nueve                       -    Bis um 9 Uhr, Bis um 9
+
+
+# 2.06 Using the correct version of the verb "to be"
+// estar
+// - Temporäre Situation (estas lista, como estas) -> wenn man "im Moment" davor verwenden kann
+// - Bei Orten (selbst wenn es nicht temporär ist)
+// ser
+// - Gegenteilige Reglen zu estar (nicht temporär und kein Ort)
+// - Name
+// - Zeit
+// - Beziehungen (Vater, etc.)
+// - Job
+// - Preis
+// - Nationalität
+// - Religion
+// - Moral
+
+estar                                 -    sein
+estas lista?                          -    Bist du bereit?
+contento                              -    zufrieden, froh 
+triste                                -    traurig
+estudio [m]                           -    Studio
+esatmos en el studio                  -    Wir sind im Studio
+Madrid esta en espania                -    Madrid ist in Spanien
+ser                                   -    sein
+soy                                   -    ich bin
+eres                                  -    du bist
+es                                    -    sie ist, er ist, es ist
+somos                                 -    wir sind
+sois                                  -    ihr seid
+son                                   -    wir sind
+soy aleman                            -    ich bin deutsch
+soy profesor                          -    ich bin Lehrer
+son las dos                           -    es ist zwei Uhr
+moreno                                -    dunkelhaarig, dunkel, brünett
+soy alto                              -    ich bin groß
+es ingeniera                          -    sie ist Ingenieurin
+son cuatro euros                      -    es sind vier Euro, es macht vier Euro
+
+es una persona contenta per esta triste              -    sie ist eine glückliche Person, aber sie ist unglücklich
+
