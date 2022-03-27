@@ -1265,6 +1265,46 @@ moreno                                -    dunkelhaarig, dunkel, brünett
 soy alto                              -    ich bin groß
 es ingeniera                          -    sie ist Ingenieurin
 son cuatro euros                      -    es sind vier Euro, es macht vier Euro
-
+facil                                 -    einfach
 es una persona contenta per esta triste              -    sie ist eine glückliche Person, aber sie ist unglücklich
 
+
+# 2.07 Radical changing verbs
+// irregular verbs / stem changing verb
+// e -> ie (querer)
+// - stem change in 1. 2. 3. and 6. case
+// - Examples: querer, pensar
+// o -> ue
+// - stem change in 1. 2. 3. and 6. case
+// - Examples: poder, volver
+
+querer                                -    wollen, mögen, lieben
+quiero                                -    ich will
+quieres                               -    du willst
+quiere                                -    sie will, er will, es will
+queremos                              -    wir wollen
+quereis                               -    ihr wollt
+quieren                               -    sie wollen
+pensar                                -    denken
+pienso                                -    ich denke
+piensas                               -    du denkst
+piensa                                -    sie denkt, er denkt, es denkt
+pensamos                              -    wir denken
+pensais                               -    ihr denkt
+piensan                               -    sie denken
+pienso que                            -    ich denke, dass
+pienso que voy a un restaurante       -    ich denke, dass ich in ein restaurant gehe
+poder                                 -    können
+puedo                                 -    ich kann
+puedes                                -    du kannst
+puede                                 -    sie kann, er kann, es kann
+podemos                               -    wir können
+podeis                                -    ihr könnt
+pueden                                -    sie können
+volver                                -    zurückkommen, zurückkehren
+vuelvo                                -    ich kommen zurück
+vuelves                               -    du kommst zurück
+vuelve                                -    sie kommst zurück, er kommt zurück, es kommt zurück
+volvemos                              -    wir kommen zurück
+volveis                               -    ihr kommt zurück
+vuelven                               -    sie kommen zurück  
