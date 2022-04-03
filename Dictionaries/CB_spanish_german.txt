@@ -1308,3 +1308,25 @@ vuelve                                -    sie kommst zurück, er kommt zurück,
 volvemos                              -    wir kommen zurück
 volveis                               -    ihr kommt zurück
 vuelven                               -    sie kommen zurück  
+
+
+# 2.08 Agreement of adjectives
+// Adjektive kommen nach dem Nomen (Normalfall)
+
+contento                              -    zufrieden, glücklich, froh
+los ninos estan contentos             -    die Kinder sind glücklich
+negro                                 -    schwarz
+el libro negro                        -    das schwarze Buch
+una casa negra                        -    ein schwarzes Haus
+los gatos negros                      -    die schwarzen Katzen
+los gatos son negros                  -    die Katzen sind schwarz
+paloma [f]                            -    Taube
+alto                                  -    hoch, groß
+un hombre alto                        -    ein großer Mann
+bajo                                  -    klein, niedrig, tief, unter
+delgado                               -    dünn, schlank 
+gordo                                 -    dick, fett
+moreno                                -    dunkelhaarig, dunkel, brünett
+rubio                                 -    blond
+
+
