@@ -1330,3 +1330,20 @@ moreno                                -    dunkelhaarig, dunkel, brünett
 rubio                                 -    blond
 
 
+# 2.09 Describing people
+// mucho -> Adjektiv, das vor dem Nomen kommt
+
+contento                              -    glücklich
+inteligente                           -    intelligent
+mucho                                 -    viel
+mucha comida                          -    viel Essen
+muchas palomas blancas                -    viele weise Tauben
+guapo                                 -    schön, hübsch
+feo                                   -    hässlich
+pelo [m]                              -    Haar
+tiene el pelo negro                   -    Er hat schwarze Haare
+castaño                               -    braunhaarig
+tiene los ojos castaños               -    Er hat braune Augen
+pelirrojo                             -    rothaarig
+
+
